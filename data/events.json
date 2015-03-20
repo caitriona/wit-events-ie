@@ -1,11 +1,5 @@
 [
   {
-	  "title": "test",
-	  "url": "us5.campaign-archive2.com/?u=69baec0ea4d0e31efe25698ee&id=8988558e03",
-	  "location": "test",
-	  "startdate": "2015-03-17"
-  },
-  {
 	  "title": "Geek Girl Dinners",
 	  "url": "us5.campaign-archive2.com/?u=69baec0ea4d0e31efe25698ee&id=8988558e03",
 	  "location": "Dublin",
@@ -53,11 +47,5 @@
 	  "location": "Dublin",
 	  "startdate": "2015-06-18",
 	  "enddate": "2015-06-19"
-  },
-  {
-	  "title": "sdfsdf",
-	  "url": "sdfsdf.com",
-	  "location": "Dublin",
-	  "startdate": "2016-01-18"
   }
 ]
