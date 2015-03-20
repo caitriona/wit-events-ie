@@ -29,8 +29,6 @@
 				<div ng-repeat="event in event_items | filter: {monthyear: monthyear}">
 				<h3 class="event-title"><a href="http://{{event.url}}" target="_blank">{{event.title}}</a></h3>
 				<ul>
-					<li>loop month:{{monthyear | date: 'MMMM'}}</li>
-					<li>this month:{{event.monthyear | date: 'MMMM'}}</li>
 					<li>{{event.location}}</li>
 					<li>{{event.startdate | date: 'EEE, MMMM d'}} {{event.enddate ? '- '+(event.enddate | date: 'EEE, MMMM d') : ''}}</li>
 				</ul>
