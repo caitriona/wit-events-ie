@@ -1,12 +1,13 @@
 <!doctype html>
 <html ng-app="eventsApp">
 <head>
+<link href='http://fonts.googleapis.com/css?family=Oswald:300' rel='stylesheet' type='text/css'>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Listing of women in tech events in Ireland">
+<meta name="description" content="Listing of women-in-tech events in Ireland">
 
-<title>Women in tech events in Ireland</title>
+<title>Listing of women-in-tech events in Ireland</title>
 
 <link rel="stylesheet" href="css/events.css" />
 
@@ -18,19 +19,27 @@
 <body>
 
 <main>
-	<div class="container" ng-controller="eventsCtrl">
+	<div ng-controller="eventsCtrl">
 		<section>
-			<h1>Women in tech events in Ireland</h1>
-			<div class="event-item" ng-repeat="monthyear in event_items | groupBy:'monthyear'">
+			<h1 class="section-title fontawesome-save"> A listing of women-in-tech events in Ireland</h1>
+			<div ng-repeat="monthyear in event_items | groupBy:'monthyear'">
 			
-				<h2>{{ monthyear | date: 'MMMM yyyy' }}</h2>
+				<h2 class="group-title">{{ monthyear | date: 'MMMM yyyy' }}</h2>
 
-				<div ng-repeat="event in event_items | filter: {monthyear: monthyear}">
-				<h3 class="event-title"><a href="http://{{event.url}}" target="_blank">{{event.title}}</a></h3>
-				<ul>
-					<li>{{event.location}}</li>
-					<li>{{event.startdate | date: 'EEE, MMMM d'}} {{event.enddate ? '- '+(event.enddate | date: 'EEE, MMMM d') : ''}}</li>
-				</ul>
+				<div class="event-group">
+
+					<div class="event-item" ng-repeat="event in event_items | filter: {monthyear: monthyear}">
+					<a class="event-link" href="http://{{event.url}}" target="_blank">
+					<div class="event-date">{{event.startdate | date: 'EEE'}}<br>{{event.startdate | date: 'd MMM'}}</div>
+					<h3 class="event-title">{{event.title}}</h3>
+					<ul class="event-details">
+						<li>{{event.location}}</li>
+						<li>{{event.startdate | date: 'EEE, MMMM d'}} {{event.enddate ? '- '+(event.enddate | date: 'EEE, MMMM d') : ''}}</li>
+					</ul>
+					<span class="event-cta">Find out more</span>
+					</a>
+					</div>
+
 				</div>
 				
 			</div>
@@ -41,14 +50,15 @@
 <footer>
 
 	<section>
-		<h2>About this page</h2>
+		<h3>This page</h3>
 		<ul>
-		<li><a href="https://github.com/caitriona/wit-events-ie" target="_blank">This page on github.</a> Pull requests welcome!</li>
+		<li>was cobbled together in haste, mostly from other internet pages by <a href="https://twitter.com/CaitrionaDwyer" target="_blank">Caitriona</a></li>
+		<li><a href="https://github.com/caitriona/wit-events-ie" target="_blank">is on github.</a> Pull requests welcome!</li>
 		</ul>
 	</section>
 	
 	<section>
-		<h2>Resource Links</h2>
+		<h3>Resource Links</h3>
 		<ul>
 		<li><a href="https://www.startupdigest.com/digests/dublin" target="_blank">Dublin Startup Digest</a></li>
 		<li><a href="http://www.techevents.ie/" target="_blank">Tech Events Ireland</a></li>

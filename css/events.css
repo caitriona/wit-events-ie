@@ -1,0 +1,151 @@
+@import url(http://weloveiconfonts.com/api/?family=fontawesome);
+
+/* fontawesome */
+[class*="fontawesome-"]:before {
+  font-family: 'fontawesome', sans-serif;
+}
+
+* { box-sizing: border-box } 
+
+body {
+	padding:20px;
+	font-family:Oswald, Arial;
+	color:#fff;
+	font-weight:300;
+	font-size:1.8em;
+}
+
+
+main {
+	margin:0 auto;
+	width:100%;
+	max-width:940px;	
+}
+
+section {
+}
+
+.section-title, .group-title, .event-link {
+	padding:20px;
+	margin:0 0 20px;
+}
+
+.section-title {
+	font-weight:normal;
+	font-size:1.9em;
+	background:#FF0066;
+}
+
+.section-title:before {
+	margin-right:20px;
+	font-size:66px;
+}
+
+.group-title {
+	font-weight:normal;
+	text-transform: uppercase;
+	font-size: 1.5em;
+	background: #01AAAF;
+}
+
+.event-group {
+	overflow:hidden;
+}
+
+
+.event-link {
+	display:block;
+	background:#B6C40D;
+	float:left;
+	max-width:400px;
+	margin:10px 20px 20px;
+	text-decoration: none;
+	color:#fff;
+}
+
+.event-link:hover, .event-link:focus, .event-link:active {
+	-webkit-box-shadow:inset 0 -10px 0 0 rgba(0,0,0,.2);
+	box-shadow:inset 0 -10px 0 0 rgba(0,0,0,.2);
+}
+
+.event-link:hover .event-cta, .event-link:focus .event-cta, .event-link:active .event-cta {
+	text-decoration: underline;
+}
+
+
+.event-date {
+	width:100px;
+	height:100px;
+	border-radius: 100%;
+	background:#AAB30D;
+	float:left;
+	padding:20px;
+	font-size: 20px;
+	text-transform: uppercase;
+	text-align: center;
+	margin-right:20px;
+}
+
+.event-title {
+	float:right;
+	max-width:60%;
+	margin:0;
+	line-height:130%;
+	overflow: hidden;
+}
+
+.event-details {
+	clear:both;
+	margin:50px 0;
+	float:left;
+	width:100%;
+}
+
+.event-cta {
+	float:right;
+	padding:10px;
+	background:#f00;
+	text-transform: uppercase;
+	font-size: 22px;
+}
+
+footer {
+	background:#443C39;
+	padding:20px;
+	margin:40px 0 0;
+}
+
+footer a {
+	color:#fff;
+}
+
+footer a:hover, footer a:focus, footer a:active {
+	color:#B6C40D;
+}
+
+
+@media screen and (max-width:450px){
+	body {
+		padding:10px;
+	}
+
+	.section-title {
+		line-height: 120%;
+	}
+
+	.event-link {
+		max-width:100%;
+		margin:0 0 20px;
+	}
+
+	.event-title {
+		float:none;
+		max-width:100%;
+		clear:both;
+		padding-top:20px;
+	}
+
+	.event-details {
+		margin:30px 0;
+	}
+}
