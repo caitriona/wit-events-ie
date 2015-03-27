@@ -57,8 +57,8 @@ section {
 	display:block;
 	background:#B6C40D;
 	float:left;
-	max-width:400px;
-	margin:10px 20px 20px;
+	width:47%;
+	margin:10px 1.5% 20px;
 	text-decoration: none;
 	color:#fff;
 }
@@ -74,13 +74,14 @@ section {
 
 
 .event-date {
-	width:100px;
-	height:100px;
+	width:110px;
+	height:110px;
 	border-radius: 100%;
 	background:#AAB30D;
 	float:left;
 	padding:20px;
-	font-size: 20px;
+	font-size: 25px;
+	line-height:125%;
 	text-transform: uppercase;
 	text-align: center;
 	margin-right:20px;
@@ -96,9 +97,15 @@ section {
 
 .event-details {
 	clear:both;
-	margin:50px 0;
+	margin:30px 0 50px;
 	float:left;
 	width:100%;
+}
+
+.event-description {
+	clear:both;
+	padding:20px 0 0;
+	font-size:24px;
 }
 
 .event-cta {
@@ -113,6 +120,7 @@ footer {
 	background:#443C39;
 	padding:20px;
 	margin:40px 0 0;
+	font-size:24px;
 }
 
 footer a {
@@ -123,8 +131,16 @@ footer a:hover, footer a:focus, footer a:active {
 	color:#B6C40D;
 }
 
+@media screen and (max-width:860px){
+	.event-title {
+		max-width:55%;
+	}
+	.event-date {
+		margin-right:15px;
+	}
+}
 
-@media screen and (max-width:450px){
+@media screen and (max-width:770px){
 	body {
 		padding:10px;
 	}
@@ -134,7 +150,7 @@ footer a:hover, footer a:focus, footer a:active {
 	}
 
 	.event-link {
-		max-width:100%;
+		width:100%;
 		margin:0 0 20px;
 	}
 
