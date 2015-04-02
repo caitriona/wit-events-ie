@@ -14,6 +14,13 @@
 	  "description": "Women and men are invited to attend this networking event whose mission is to strengthen technology businesses by connecting, inspiring and educating the next generation of technology leaders"
   },
   {
+	  "title": "Geek Girl Carrots Meetup #2",
+	  "url": "facebook.com/events/222770827891843/",
+	  "location": "Dublin",
+	  "startdate": "2015-04-15",
+	  "description": "There'll be insightful talks and great networking. Speaker: Krithika Ramanarayanan, Business Intelligence Consultant/ Data Analyst"
+  },
+  {
 	  "title": "Coding Grace: Dive into Javascript",
 	  "url": "www.codinggrace.com/events/dive-javascript/44/",
 	  "location": "Dublin",
@@ -41,13 +48,6 @@
 	  "location": "Dublin",
 	  "startdate": "2015-03-31",
 	  "description": "Niamh Bushnell, Dublin Startup Commissioner will speak on the topic of Entrepreneurship"
-  },
-  {
-	  "title": "Geek Girl Carrots Meetup #2",
-	  "url": "facebook.com/events/222770827891843/",
-	  "location": "Dublin",
-	  "startdate": "2015-04-15",
-	  "description": "There'll be insightful talks and great networking. Speaker: Krithika Ramanarayanan, Business Intelligence Consultant/ Data Analyst"
   }
   
 ]
