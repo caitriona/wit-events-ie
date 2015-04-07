@@ -55,6 +55,14 @@
 	  "location": "Dublin",
 	  "startdate": "2015-03-31",
 	  "description": "Niamh Bushnell, Dublin Startup Commissioner will speak on the topic of Entrepreneurship"
+  },
+  {
+	  "title": "Rails Girls Galway",
+	  "url": "railsgirls.com/galway",
+	  "location": "Galway",
+	  "startdate": "2015-06-27",
+	  "enddate": "2015-06-28",
+	  "description": "Rails Girls comes to Galway again! During the *free* two-days workshop in June 2015, we will dive into the magical world of Ruby on Rails and build an application together, from scratch."
   }
   
 ]
