@@ -70,6 +70,13 @@
 	  "startdate": "2015-06-27",
 	  "enddate": "2015-06-28",
 	  "description": "Rails Girls comes to Galway again! During the *free* two-days workshop in June 2015, we will dive into the magical world of Ruby on Rails and build an application together, from scratch."
+  },
+  {
+	  "title": "Women 2.0 City Meetup Dublin",
+	  "url": "eventbrite.com/e/women-20-city-meetup-dublin-tickets-16432857118",
+	  "location": "Dublin",
+	  "startdate": "2015-05-07",
+	  "description": "Women and men are invited to attend this networking event whose mission is to strengthen technology businesses by connecting, inspiring and educating the next generation of technology leaders"
   }
   
 ]
