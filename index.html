@@ -22,7 +22,7 @@
 	<div ng-controller="eventsCtrl">
 		<section>
 			<h1 class="section-title fontawesome-save"> A listing of women-in-tech events in Ireland</h1>
-			<div ng-repeat="monthyear in event_items | groupBy:'monthyear'">
+			<div ng-repeat="monthyear in event_items | orderBy: 'startdate' | groupBy:'monthyear'">
 			
 				<h2 class="group-title">{{ monthyear | date: 'MMMM yyyy' }}</h2>
 
