@@ -84,6 +84,13 @@
 	  "location": "Dublin",
 	  "startdate": "2015-05-07",
 	  "description": "Girl Geek Dinners are a chance for ladies in technology to get together, enjoy some nice food and drinks, and have fun meeting other women in their field."
-  }
+  },
+  {
+	  "title": "Coding Grace's Maths Café",
+	  "url": "codinggrace.com/events/coding-graces-maths-cafe/45/",
+ 	  "location": "Dublin",
+	  "startdate": "2015-05-30",
+	  "description": "Maths Café is for people who want to brush up on their school maths or who maybe never fully got it in the first place."
+   }
   
 ]
