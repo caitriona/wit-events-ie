@@ -79,18 +79,11 @@
 	  "description": "Women and men are invited to attend this networking event whose mission is to strengthen technology businesses by connecting, inspiring and educating the next generation of technology leaders"
   },
   {
-	  "title": "Women in Computing Workshop for Transition Year Students",
-	  "url": "dit.ie/computing/events/womenincomputing/",
-	  "location": "DIT, Kevin St, Dublin",
-	  "startdate": "2015-04-28",
-	  "description": "The School of Computing in the Dublin Institute of Technology (DIT) is holding a one day 'Women in Computing' workshop event. All female transition year students can apply."
-  },
-  {
-	  "title": "Coding Grace's Maths Café",
-	  "url": "codinggrace.com/events/coding-graces-maths-cafe/45/",
+	  "title": "Ireland Geek Girl Dinners",
+	  "url": "meetup.com/Ireland-Girl-Geek-Dinners/events/222125371/",
 	  "location": "Dublin",
-	  "startdate": "2015-05-30",
-	  "description": "Maths Café is for people who want to brush up on their school maths or who maybe never fully got it in the first place."
+	  "startdate": "2015-05-07",
+	  "description": "Girl Geek Dinners are a chance for ladies in technology to get together, enjoy some nice food and drinks, and have fun meeting other women in their field."
   }
   
 ]
