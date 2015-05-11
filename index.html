@@ -26,9 +26,9 @@
 			
 				<h2 class="group-title">{{ monthyear | date: 'MMMM yyyy' }}</h2>
 
-				<div class="event-group">
+				<ul class="event-group">
 
-					<div class="event-item" ng-repeat="event in event_items | filter: {monthyear: monthyear} | orderBy: 'startdate'">
+					<li class="event-item" ng-repeat="event in event_items | filter: {monthyear: monthyear} | orderBy: 'startdate'">
 						
 						<a class="event-link" href="http://{{event.url}}" target="_blank">
 						<div class="event-date">{{event.startdate | date: 'EEE'}}<br>{{event.startdate | date: 'd MMM'}}</div>
@@ -41,9 +41,9 @@
 						<span class="event-cta">Find out more</span>
 						</a>
 						
-					</div>
+					</li>
 
-				</div>
+				</ul>
 				
 			</div>
 		</section>
