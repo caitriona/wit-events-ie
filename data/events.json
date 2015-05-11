@@ -91,6 +91,36 @@
  	  "location": "Dublin",
 	  "startdate": "2015-05-30",
 	  "description": "Maths Café is for people who want to brush up on their school maths or who maybe never fully got it in the first place."
-   }
+   },
+   {
+	  "title": "DigiWomen Lunchtime Koffee Klatsch",
+	  "url": "digi-women.com/koffee-klatsch-something-new-in-dublin/",
+ 	  "location": "Dublin",
+	  "startdate": "2015-05-13",
+	  "description": "Lunchtime meet (12.30pm to 1.30pm) up for female makers and users of tech. Run by DigiWomen it is a chance to get together to learn, connect and talk tech and business with likeminded business women."
+   },
+   {
+	  "title": "DigiWomen Evening Koffee Klatsch",
+	  "url": "digi-women.com/koffee-klatsch-something-new-in-dublin/",
+ 	  "location": "Dublin",
+	  "startdate": "2015-05-27",
+	  "description": "Evening meet up for female makers and users of tech. Run by DigiWomen it is a chance to get together to learn, connect and talk tech and business with likeminded business women."
+   },
+   {
+	  "title": "PyLadies Dublin",
+	  "url": "www.meetup.com/PyLadiesDublin/",
+	  "location": "Dublin",
+	  "startdate": "2015-05-19",
+	  "description": "Our focus is to help more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community."
+   },
+   {
+	  "title": "Women 2.0 City Meetup Dublin",
+	  "url": "women2.com/city-meetup/dublin/",
+	  "location": "Leopardstown, Dublin",
+	  "startdate": "2015-06-04",
+	  "description": "Women and men are invited to attend this networking event whose mission is to strengthen technology businesses by connecting, inspiring and educating the next generation of technology leaders"
+  }
+
+
   
 ]
