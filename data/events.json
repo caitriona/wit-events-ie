@@ -168,7 +168,14 @@
 	  "location": "Dublin",
 	  "startdate": "2015-07-25",
 	  "description": "This introductory course will provide participants with the knowledge and practice they need to create a fun 2D interactive storytelling game in Unity 3D."
-   }
+   },
+   {
+	  "title": "Ireland Geek Girl Dinners",
+	  "url": "meetup.com/Ireland-Girl-Geek-Dinners/events/223017678/",
+	  "location": "Dublin",
+	  "startdate": "2015-06-18",
+	  "description": "Girl Geek Dinners are a chance for ladies in technology to get together, enjoy some nice food and drinks, and have fun meeting other women in their field."
+  }
 
 
   
