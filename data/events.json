@@ -36,10 +36,17 @@
 		"description": "Women Techmakers will start the day by a show and tell, followed by workshops/code labs covering many technologies and for different level. This introductory course will provide participants with the knowledge and practice they need to create a fun 2D interactive storytelling game in Unity 3D."
 	},
 	{
-		"title": "Women 2.0 City Meetup Dublin",
-		"url": "women2.com/city-meetup/dublin/",
-		"location": "Leopardstown, Dublin",
-		"startdate": "2015-08-06",
-		"description": "Join Women 2.0 for our monthly City Meetup in Dublin. City Meetup is a Women 2.0 networking event to promote new networks amongst the entire technology ecosystem in innovative cities around the world. This event is open to those who work, start, and fund tech companies. Both women and men are invited to attend."
+		"title": "Coding Grace - Data Analysis with Python",
+		"url": "codinggrace.com/events/data-analysis-python/52/",
+		"location": "Dublin",
+		"startdate": "2015-08-08",
+		"description": "Coding Grace are delighted to have Kevin O'Brien back again to run another beginners Data Analysis with Python workshop."
+	},
+	{
+	  "title": "PyLadies Dublin",
+	  "url": "www.meetup.com/PyLadiesDublin/",
+	  "location": "Dublin",
+	  "startdate": "2015-08-18",
+	  "description": "Our focus is to help more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community."
 	}
 ]
