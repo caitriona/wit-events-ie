@@ -48,5 +48,12 @@
 	  "location": "Dublin",
 	  "startdate": "2015-08-18",
 	  "description": "Our focus is to help more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community."
+	},
+	{
+	  "title": "Geek Girl Dinners",
+	  "url": "meetup.com/Ireland-Girl-Geek-Dinners/",
+	  "location": "Dublin",
+	  "startdate": "2015-08-13",
+	  "description": "Girl Geek Dinners are a chance for ladies in technology to get together, enjoy some nice food and drinks, and have fun meeting other women in their field."
 	}
 ]
