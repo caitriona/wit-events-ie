@@ -55,5 +55,19 @@
 	  "location": "Dublin",
 	  "startdate": "2015-08-13",
 	  "description": "Girl Geek Dinners are a chance for ladies in technology to get together, enjoy some nice food and drinks, and have fun meeting other women in their field."
+	},
+	{
+	  "title": "PyLadies Dublin",
+	  "url": "www.meetup.com/PyLadiesDublin/",
+	  "location": "Dublin",
+	  "startdate": "2015-09-15",
+	  "description": "Our focus is to help more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community."
+	},
+	{
+		"title": "Coding Grace - Introduction to Animation",
+		"url": "codinggrace.com/events/introduction-animation/54/",
+		"location": "Dublin",
+		"startdate": "2015-09-05",
+		"description": "This beginners workshop will be mentored by Daniel Spencer (Giant Animation). It will be a mix of practical and theory stuff as well as studying animation and sparking up conversation about technique as well."
 	}
 ]
