@@ -76,5 +76,40 @@
 		"location": "Dublin",
 		"startdate": "2015-09-21",
 		"description": "An exciting evening exploring Digital Life Digital Work including Mary Carty from Outbox Incubator and an interactive Dual Coaching session."
+	},
+	{
+		"title": "Coding Grace - Introduction to R",
+		"url": "codinggrace.com/events/introduction-r/55/",
+		"location": "Dublin",
+		"startdate": "2015-09-26",
+		"description": "Beginners Workshop in R, hosted by Insight Centre for Data Analytics, DCU"
+	},
+	{
+		"title": "Coder Girl Hack Day",
+		"url": "eventbrite.ie/e/codergirlhackdaydcu-10am-4pm-tickets-18386613857",
+		"location": "Dublin",
+		"startdate": "2015-10-10",
+		"description": "CoderDojoGirls, GirlsHackIreland, Coding Grace, TOG Dublin have combined forced for an artsy themed coding hackathon to celebrate International Day Of the Girl."
+	},
+	{
+		"title": "Women who Code, Belfast",
+		"url": "meetup.com/Women-Who-Code-Belfast/events/225061840/",
+		"location": "Belfast",
+		"startdate": "2015-09-29",
+		"description": "September Meetup - CV writing tips, interview skills & importance of LinkedIn"
+	},
+	{
+		"title": "Women who Code, Belfast",
+		"url": "meetup.com/Women-Who-Code-Belfast/events/225062784/",
+		"location": "Belfast",
+		"startdate": "2015-11-24",
+		"description": "November Meetup - Front-End Web Development for Beginners"
+	},
+	{
+		"title": "Women who Code, Belfast",
+		"url": "meetup.com/Women-Who-Code-Belfast/events/225062829/",
+		"location": "Belfast",
+		"startdate": "2015-12-07",
+		"description": "December Meetup - Front-End Web Development for Improvers"
 	}
 ]
