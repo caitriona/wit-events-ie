@@ -111,5 +111,12 @@
 		"location": "Belfast",
 		"startdate": "2015-12-07",
 		"description": "December Meetup - Front-End Web Development for Improvers"
+	},
+	{
+	  "title": "Geek Girl Dinners",
+	  "url": "meetup.com/Ireland-Girl-Geek-Dinners/events/225278907/?a=ea1_grp&rv=ea1&_af=event&_af_eid=225278907",
+	  "location": "Dublin",
+	  "startdate": "2015-09-24",
+	  "description": "Girl Geek Dinners are a chance for ladies in technology to get together, enjoy some nice food and drinks, and have fun meeting other women in their field."
 	}
 ]
