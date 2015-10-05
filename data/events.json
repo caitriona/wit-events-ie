@@ -111,5 +111,19 @@
 		"location": "Belfast",
 		"startdate": "2015-12-07",
 		"description": "December Meetup - Front-End Web Development for Improvers"
+	},
+	{
+		"title": "Coding Grace - Introduction to HTML5/CSS3 workshop",
+		"url": "meetup.com/codinggrace/events/225569585/",
+		"location": "Dublin",
+		"startdate": "2015-10-17",
+		"description": "This workshop will show you how to use HTML and CSS to make webpages"
+	},
+	{
+		"title": "PyLadies Dublin",
+		"url": "www.meetup.com/PyLadiesDublin/",
+		"location": "Dublin",
+		"startdate": "2015-10-20",
+		"description": "Our focus is to help more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community."
 	}
 ]
