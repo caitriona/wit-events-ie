@@ -125,5 +125,12 @@
 		"location": "Dublin",
 		"startdate": "2015-10-20",
 		"description": "Our focus is to help more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community."
+	},
+	{
+		"title": "Women Who Code, Dublin - Launch Night",
+		"url": "www.meetup.com/Women-Who-Code-Dublin/events/225904975/",
+		"location": "Dublin",
+		"startdate": "2015-11-12",
+		"description": "Let's meet each other and have fun decide what we want to learn, share and build at WWC Dublin."
 	}
 ]
