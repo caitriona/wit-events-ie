@@ -139,5 +139,12 @@
 	  "location": "Dublin",
 	  "startdate": "2015-10-22",
 	  "description": "Girl Geek Dinners are a chance for ladies in technology to get together, enjoy some nice food and drinks, and have fun meeting other women in their field."
+	},
+	{
+	  "title": "WITS25, Celebrating 25 Years of Women in Technology and Science",
+	  "url": witsireland.com/events/?event_id=16/",
+	  "location": "Dublin",
+	  "startdate": "2015-11-03",
+	  "description": "Alicia Clements will talk about her life in STEM and how her career has developed from engineering to project management."
 	}
 ]
