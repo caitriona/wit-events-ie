@@ -146,5 +146,12 @@
 	  "location": "Dublin",
 	  "startdate": "2015-11-03",
 	  "description": "Alicia Clements will talk about her life in STEM and how her career has developed from engineering to project management."
+	},
+	{
+	  "title": "Rails Girls Dublin",
+	  "url": "www.eventbrite.co.uk/e/rails-girls-dublin-2015-tickets-18647548319",
+	  "location": "Dublin",
+	  "startdate": "2015-11-21",
+	  "description": "For the third time Rails Girls is coming to Dublin! Join experts in Rails from the industry at Zendesk to learn how to make your very own web app."
 	}
 ]
