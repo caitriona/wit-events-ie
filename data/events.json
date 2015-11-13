@@ -160,5 +160,19 @@
 	  "location": "Dublin",
 	  "startdate": "2015-12-03",
 	  "description": "Girl Geek Dinners are a chance for ladies in technology to get together, enjoy some nice food and drinks, and have fun meeting other women in their field."
+	},
+	{
+	  "title": "WITS Ireland AGM",
+	  "url": "witsireland.com/events/?event_id=17",
+	  "location": "Dublin",
+	  "startdate": "2015-12-05",
+	  "description": "All members are invited to attend the AGM in the Science Gallery, Pearse Street, Dublin 2. The AGM will be followed by a light lunch and networking."
+	},
+	{
+		"title": "PyLadies Dublin - November Meetup",
+		"url": "www.meetup.com/PyLadiesDublin/events/226345067/",
+		"location": "Dublin",
+		"startdate": "2015-11-17",
+		"description": "Our focus is to help more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community."
 	}
 ]
