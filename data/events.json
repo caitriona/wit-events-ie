@@ -153,5 +153,12 @@
 	  "location": "Dublin",
 	  "startdate": "2015-11-21",
 	  "description": "For the third time Rails Girls is coming to Dublin! Join experts in Rails from the industry at Zendesk to learn how to make your very own web app."
+	},
+	{
+	  "title": "Ireland Girl Geek Dinners - December Meetup",
+	  "url": "www.meetup.com/Ireland-Girl-Geek-Dinners/events/226253615/",
+	  "location": "Dublin",
+	  "startdate": "2015-12-03",
+	  "description": "Girl Geek Dinners are a chance for ladies in technology to get together, enjoy some nice food and drinks, and have fun meeting other women in their field."
 	}
 ]
