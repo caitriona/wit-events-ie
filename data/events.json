@@ -174,5 +174,12 @@
 		"location": "Dublin",
 		"startdate": "2015-11-17",
 		"description": "Our focus is to help more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community."
+	},
+	{
+		"title": "PyLadies Dublin on a boat!",
+		"url": "www.meetup.com/PyLadiesDublin/events/226345329/",
+		"location": "Dublin",
+		"startdate": "2015-11-15",
+		"description": "Our meetup in December is on a cool co-sharing space on a barge courtesy of dospace.ie"
 	}
 ]
