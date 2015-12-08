@@ -181,5 +181,12 @@
 		"location": "Dublin",
 		"startdate": "2015-12-15",
 		"description": "Our meetup in December is on a cool co-sharing space on a barge courtesy of dospace.ie"
+	},
+	{
+		"title": "Women who Code, Belfast",
+		"url": "www.meetup.com/Women-Who-Code-Belfast/events/225062829/",
+		"location": "Belfast",
+		"startdate": "2015-12-14",
+		"description": "December Meetup - Front-End Web Development for Improvers"
 	}
 ]
