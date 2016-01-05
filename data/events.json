@@ -188,5 +188,26 @@
 		"location": "Belfast",
 		"startdate": "2015-12-14",
 		"description": "December Meetup - Front-End Web Development for Improvers"
+	},
+	{
+		"title": "PyLadies Dublin - January Meetup",
+		"url": "www.meetup.com/PyLadiesDublin/events/227551576/",
+		"location": "Dublin",
+		"startdate": "2016-01-19",
+		"description": "!!! Cryptoparty !!!"
+	},
+	{
+		"title": "Women Who Code, Dublin",
+		"url": "www.meetup.com/Women-Who-Code-Dublin/events/227595402/",
+		"location": "Dublin",
+		"startdate": "2016-01-14",
+		"description": "Python Hacknight (Fundamentals of programming)"
+	},
+	{
+		"title": "Coding Grace - Wearable Electronics Workshop",
+		"url": "www.meetup.com/codinggrace/events/227379105/",
+		"location": "Dublin",
+		"startdate": "2016-01-23",
+		"description": "In this female-friendly workshop, you will learn the basics of wearable electronics."
 	}
 ]
