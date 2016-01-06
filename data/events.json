@@ -209,5 +209,12 @@
 		"location": "Dublin",
 		"startdate": "2016-01-23",
 		"description": "In this female-friendly workshop, you will learn the basics of wearable electronics."
+	},
+	{
+	  "title": "Ireland Girl Geek Dinners - January Meetup",
+		"url": "www.meetup.com/Ireland-Girl-Geek-Dinners/events/227882048/",
+		"location": "Dublin",
+		"startdate": "2016-01-21",
+	  "description": "Girl Geek Dinners are a chance for ladies in technology to get together, enjoy some nice food and drinks, and have fun meeting other women in their field."
 	}
 ]
