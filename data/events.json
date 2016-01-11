@@ -216,5 +216,12 @@
 		"location": "Dublin",
 		"startdate": "2016-01-21",
 	  "description": "Girl Geek Dinners are a chance for ladies in technology to get together, enjoy some nice food and drinks, and have fun meeting other women in their field."
+	},
+	{
+		"title": "Coding Grace - Data Visualisation with Python",
+		"url": "www.meetup.com/codinggrace/events/227984347/",
+		"location": "Dublin",
+		"startdate": "2016-02-06",
+		"description": "This is a follow-on workshop from Data Analysis with Python."
 	}
 ]
