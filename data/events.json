@@ -223,5 +223,20 @@
 		"location": "Dublin",
 		"startdate": "2016-02-06",
 		"description": "This is a follow-on workshop from Data Analysis with Python."
+	},
+	{
+		"title": "Django Girls Belfast",
+		"url": "djangogirls.org/belfast",
+		"location": "Belfast",
+		"startdate": "2016-02-20",
+		"description": "Free programming workshop for women. Code your first website on 20th February 2016 in Belfast."
+	},
+	{
+		"title": "InspireFest 2016",
+		"url": "www.inspirefest.com/",
+		"location": "Dublin",
+		"startdate": "2016-06-30",
+		"enddate": "2015-07-02",
+		"description": "A two day international sci-tech festival, which also celebrates diversity and inclusion in STEM."
 	}
 ]
