@@ -238,5 +238,33 @@
 		"startdate": "2016-06-30",
 		"enddate": "2016-07-02",
 		"description": "A two day international sci-tech festival, which also celebrates diversity and inclusion in STEM."
+	},
+	{
+		"title": "Diversity CFP Workshop",
+		"url": "ti.to/scotlandjs/dublin-diversity-cfp-workshop",
+		"location": "Dublin",
+		"startdate": "2016-01-30",
+		"description": "ScotlandCSS and ScotlandJS are hosting a number of workshops to encourage you to take that next step in submitting a conference talk proposal."
+	},
+	{
+		"title": "Women Who Code Belfast - Network Engineering Evening",
+		"url": "www.meetup.com/Women-Who-Code-Belfast/events/228198285/",
+		"location": "Dublin",
+		"startdate": "2016-02-17",
+		"description": "This informative evening is not to be missed especially for those who would like to learn more about network engineering!"
+	},
+	{
+		"title": "PyLadies Dublin @ AOL",
+		"url": "www.meetup.com/PyLadiesDublin/events/227558085/",
+		"location": "Dublin",
+		"startdate": "2016-02-16",
+		"description": "Lightning Talks / Web API test with Python Robot Framework"
+	},
+	{
+		"title": "WITS - Unconscious Bias Workshop",
+		"url": "witsireland.com/events/?event_id=18",
+		"location": "Dublin",
+		"startdate": "2016-02-17",
+		"description": "Booking has now opened for the first WITS event of 2016. The Unconscious Bias workshop will take place on 17th Feb at Jury's Inn, Custom House Quay, starting at 6.30pm."
 	}
 ]
