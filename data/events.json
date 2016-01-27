@@ -266,5 +266,12 @@
 		"location": "Dublin",
 		"startdate": "2016-02-17",
 		"description": "Booking has now opened for the first WITS event of 2016. The Unconscious Bias workshop will take place on 17th Feb at Jury's Inn, Custom House Quay, starting at 6.30pm."
+	},
+	{
+		"title": "Women Who Code, Dublin - UX, JavaScript Hacknight",
+		"url": "www.meetup.com/Women-Who-Code-Dublin/events/228369025/",
+		"location": "Dublin",
+		"startdate": "2016-02-10",
+		"description": "We will be having a Hacknight with Talk and interactive session about UX, Workshop and Hands-On with JavaScript. Only 15 spots per session!"
 	}
 ]
