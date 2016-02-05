@@ -249,7 +249,7 @@
 	{
 		"title": "Women Who Code Belfast - Network Engineering Evening",
 		"url": "www.meetup.com/Women-Who-Code-Belfast/events/228198285/",
-		"location": "Dublin",
+		"location": "Belfast",
 		"startdate": "2016-02-17",
 		"description": "This informative evening is not to be missed especially for those who would like to learn more about network engineering!"
 	},
@@ -273,5 +273,12 @@
 		"location": "Dublin",
 		"startdate": "2016-02-10",
 		"description": "We will be having a Hacknight with Talk and interactive session about UX, Workshop and Hands-On with JavaScript. Only 15 spots per session!"
+	},
+	{
+	  "title": "Ireland Girl Geek Dinners - February Meetup",
+		"url": "www.meetup.com/Ireland-Girl-Geek-Dinners/events/228547886/",
+		"location": "Dublin",
+		"startdate": "2016-02-18",
+	  "description": "Girl Geek Dinners are a chance for ladies in technology to get together, enjoy some nice food and drinks, and have fun meeting other women in their field."
 	}
 ]
