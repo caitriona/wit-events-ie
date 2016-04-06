@@ -280,5 +280,68 @@
 		"location": "Dublin",
 		"startdate": "2016-02-18",
 	  "description": "Girl Geek Dinners are a chance for ladies in technology to get together, enjoy some nice food and drinks, and have fun meeting other women in their field."
+	},
+	{
+	  "title": "Women Techmakers Belfast Summit 2016",
+		"url": "www.eventbrite.ie/e/women-techmakers-belfast-summit-tickets-22401272810?aff=estw",
+		"location": "Belfast",
+		"startdate": "2016-04-06",
+	  "description": "This is conference-style event in recognition of International Women's Day, in conjunction with the Belfast Google Developer Group."
+	},
+	{
+	  "title": "WITS TALK: Careers Focus with Dr Sarah Bourke, CEO Skytek",
+		"url": "witsireland.com/events/?event_id=21",
+		"location": "Dublin",
+		"startdate": "2016-04-06",
+	  "description": "Join us for a talk by Dr Sarah Bourke, CEO Skytek and one of the winners of the 2016 EU Prize for Women Innovators. Sarah will tell her story, the story of Skytek and discuss some of the enablers and challenges along the way."
+	},
+	{
+	  "title": "Galway WITS Group Launch",
+		"url": "witsireland.com/events/?event_id=21",
+		"location": "Galway",
+		"startdate": "2016-04-27",
+	  "description": "Launch of Galway regional WITS group"
+	},
+	{
+	  "title": "WITS EVENT: Rationale for gender initiatives in research funding",
+		"url": "witsireland.com/events/?event_id=23",
+		"location": "Dublin",
+		"startdate": "2016-05-03",
+	  "description": "Talk by Fiona Blighe, followed by networking"
+	},
+	{
+	  "title": "Sligo WITS Group Launch",
+		"url": "witsireland.com/events/?event_id=21",
+		"location": "Sligo",
+		"startdate": "2016-05-11",
+	  "description": "Launch of Sligo regional WITS group"
+	},
+	{
+	  "title": "Women Who Code, Belfast - Lean Development",
+		"url": "www.meetup.com/Women-Who-Code-Belfast/events/229064461/",
+		"location": "Belfast",
+		"startdate": "2016-04-12",
+	  "description": "The topic will be Lean Development. Cayan will deliver a short presentation and a game that they use in their own training."
+	},
+	{
+		"title": "Django Girls Belfast - June Event",
+		"url": "djangogirls.org/belfast",
+		"location": "Belfast",
+		"startdate": "2016-06-25",
+		"description": "Free programming workshop for women between the ages of 18 and 100!"
+	},
+	{
+		"title": "Django Girls Dublin - April Event",
+		"url": "djangogirls.org/dublin",
+		"location": "Dublin",
+		"startdate": "2016-04-23",
+		"description": "Free programming workshop for women!"
+	},
+	{
+		"title": "Women Who Code, Dublin - Data Science Hacknight Series",
+		"url": "www.meetup.com/Women-Who-Code-Dublin/events/229810059/",
+		"location": "Dublin",
+		"startdate": "2016-04-21",
+		"description": "To continue our Hacknight Series on Data Science, Ana and Zalando's Team will be giving a practical session on Data Science!"
 	}
 ]
