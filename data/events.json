@@ -357,5 +357,12 @@
 		"location": "Dublin",
 		"startdate": "2016-05-26",
 		"description": "This session will cover Data Visualisation and will be presented by Sergio, Data Scientist at Zalando."
+	},
+	{
+		"title": "Women@Dropbox - Dublin Women in Tech",
+		"url": "www.eventbrite.com/e/dublin-women-in-tech-tickets-24836300042",
+		"location": "Dublin",
+		"startdate": "2016-05-25",
+		"description": "Women@Dropbox are inviting folks from tech companies around Dublin who are interested in the topic of gender equality in the workplace to join us for this informal networking event."
 	}
 ]
