@@ -343,5 +343,19 @@
 		"location": "Dublin",
 		"startdate": "2016-04-21",
 		"description": "To continue our Hacknight Series on Data Science, Ana and Zalando's Team will be giving a practical session on Data Science!"
+	},
+	{
+		"title": "PyLadies Dublin @ Intercom",
+		"url": "www.meetup.com/PyLadiesDublin/events/230500754/",
+		"location": "Dublin",
+		"startdate": "2016-05-17",
+		"description": "More details to follow... we are looking for a speaker to talk or demo cool stuff."
+	},
+	{
+		"title": "Women Who Code Dublin: Dublin Data Visualisation - Hacknight Series Part 3",
+		"url": "www.meetup.com/Women-Who-Code-Dublin/events/231039224/",
+		"location": "Dublin",
+		"startdate": "2016-05-26",
+		"description": "This session will cover Data Visualisation and will be presented by Sergio, Data Scientist at Zalando."
 	}
 ]
