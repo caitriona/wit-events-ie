@@ -371,5 +371,12 @@
 		"location": "Dublin",
 		"startdate": "2016-05-26",
 		"description": "The May Meetup will be hosted by Mobile Travel Technologies. Martina Coogan, a Senior Account Manager at MTT will be speaking at the event. More info to follow."
+	},
+	{
+		"title": "Attracting & retaining Women in the Cybersecurity Industry",
+		"url": "www.eventbrite.com/e/attracting-retaining-women-in-the-cybersecurity-industry-tickets-24970640859",
+		"location": "Dublin",
+		"startdate": "2016-05-26",
+		"description": "Women’s representation in cybersecurity has been low and is on decline. This OWASP Dublin chapter meeting aims to discuss many of the challenges around attracting and retaining women in the cybersecurity industry."
 	}
 ]
