@@ -1,382 +1,52 @@
 [
 	{
-		"title": "Rails Girls Galway",
-		"url": "railsgirls.com/galway",
-		"location": "Galway",
-		"startdate": "2015-06-27",
-		"enddate": "2015-06-28",
-		"description": "Rails Girls comes to Galway again! During the *free* two-days workshop in June 2015, we will dive into the magical world of Ruby on Rails and build an application together, from scratch."
-	},
-	{
-		"title": "Coding Grace Learn Fungus & Unity 3D",
-		"url": "codinggrace.com/events/creating-storytelling-games-fungus-unity-3d/47/",
+		"title": "Women in Fintech: Building Confidence in the Future",
+		"url": "www.meetup.com/FinTech-Ireland/events/233819999/",
 		"location": "Dublin",
-		"startdate": "2015-07-25",
-		"description": "This introductory course will provide participants with the knowledge and practice they need to create a fun 2D interactive storytelling game in Unity 3D."
+		"startdate": "2016-09-15",
+		"description": "The Fintech and Payments Association of Ireland (FPAI) and Citi invite you to join them to discuss gender diversity in the Financial Services Technology Sector."
 	},
 	{
-		"title": "Women Who Code, Belfast - Creating REST APIs for Mobile App Development",
-		"url": "meetup.com/Women-Who-Code-Belfast/events/223040727/",
-		"location": "Belfast",
-		"startdate": "2015-07-23",
-		"description": "This event will involve a tech talk by Dr Steve Walsh, the CTO of Belfast based startup Secure Broadcast, on the details of creating a REST API for mobile app development (the demo will be on iOS). Come along and find out why REST APIs and mobile app development are so important to shaping the future of the mobile app industry."
-	},
-	{
-		"title": "Coding Grace - Intermediate AngularJS Workshop @ WomenTechmakers",
-		"url": "codinggrace.com/events/intermediate-angularjs-workshop-womentechmakers/46/",
+		"title": "Talking Tech: How Men and Women Can Fix Tech Diversity Together",
+		"url": "www.eventbrite.com/e/talking-tech-how-men-and-women-can-fix-tech-diversity-together-tickets-27564715807",
 		"location": "Dublin",
-		"startdate": "2015-07-25",
-		"description": "Women Techmakers have invited Coding Grace to run an Intermediate AngularJS workshop after a successful Beginners one recently. We are delighted to be back and will be headed by Serena and Sarah. Women Techmakers will start the day by a show and tell, followed by workshops/code labs covering many technologies and for different level."
+		"startdate": "2016-09-19",
+		"description": "Fixing the diversity gap in the tech world isn’t something CEOs, women, or hiring managers can do alone. Everyone needs to be part of the solution."
 	},
 	{
-		"title": "Coding Grace - Creating Storytelling Games with Fungus & Unity 3D @ Women Techmakers",
-		"url": "codinggrace.com/events/creating-storytelling-games-fungus-unity-3d/47/",
+		"title": "PyLadies Dublin Sept Meetup",
+		"url": "www.meetup.com/PyLadiesDublin/events/232700076/",
 		"location": "Dublin",
-		"startdate": "2015-07-25",
-		"description": "Women Techmakers will start the day by a show and tell, followed by workshops/code labs covering many technologies and for different level. This introductory course will provide participants with the knowledge and practice they need to create a fun 2D interactive storytelling game in Unity 3D."
+		"startdate": "2016-09-20",
+		"description": "'Web Scraping with Scrapy' by Mihai Todor. Remember to bring your laptop."
 	},
 	{
-		"title": "Coding Grace - Data Analysis with Python",
-		"url": "codinggrace.com/events/data-analysis-python/52/",
+		"title": "Women in Tech meetup - WITA chapter launch",
+		"url": "techweek.womenintechafrica.com/events/wita-ireland-chapter-tech-week-day-2-leadership-day-tuesday-27th-september-2016/",
 		"location": "Dublin",
-		"startdate": "2015-08-08",
-		"description": "Coding Grace are delighted to have Kevin O'Brien back again to run another beginners Data Analysis with Python workshop."
+		"startdate": "2016-09-27",
+		"description": "Addressing themes of entrepreneurship, technology and women leadership, we will hear from women entrepreneurs, founders and senior managers, who have inspiring career and entrepreneurship experience"
 	},
 	{
-	  "title": "PyLadies Dublin",
-	  "url": "www.meetup.com/PyLadiesDublin/",
-	  "location": "Dublin",
-	  "startdate": "2015-08-18",
-	  "description": "Our focus is to help more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community."
-	},
-	{
-	  "title": "Geek Girl Dinners",
-	  "url": "meetup.com/Ireland-Girl-Geek-Dinners/",
-	  "location": "Dublin",
-	  "startdate": "2015-08-13",
-	  "description": "Girl Geek Dinners are a chance for ladies in technology to get together, enjoy some nice food and drinks, and have fun meeting other women in their field."
-	},
-	{
-	  "title": "PyLadies Dublin",
-	  "url": "www.meetup.com/PyLadiesDublin/",
-	  "location": "Dublin",
-	  "startdate": "2015-09-15",
-	  "description": "Our focus is to help more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community."
-	},
-	{
-		"title": "Coding Grace - Introduction to Animation",
-		"url": "codinggrace.com/events/introduction-animation/54/",
+		"title": "WITS UCD Pizza Social",
+		"url": "witsireland.com/events/?event_id=26",
 		"location": "Dublin",
-		"startdate": "2015-09-05",
-		"description": "This beginners workshop will be mentored by Daniel Spencer (Giant Animation). It will be a mix of practical and theory stuff as well as studying animation and sparking up conversation about technique as well."
+		"startdate": "2016-09-29",
+		"description": "Our first student based event in UCD. Come along for some pizza, an insightful talk about what WITS is, as well as networking and a general chat."
 	},
 	{
-		"title": "Codess Dublin",
-		"url": "eventbrite.com/e/codess-dublin-tickets-17919561892",
+		"title": "Coder Girl Hack Day 2016",
+		"url": "codinggrace.com/events/coder-girl-hack-day-2016/75/",
 		"location": "Dublin",
-		"startdate": "2015-09-21",
-		"description": "An exciting evening exploring Digital Life Digital Work including Mary Carty from Outbox Incubator and an interactive Dual Coaching session."
-	},
-	{
-		"title": "Coding Grace - Introduction to R",
-		"url": "codinggrace.com/events/introduction-r/55/",
-		"location": "Dublin",
-		"startdate": "2015-09-26",
-		"description": "Beginners Workshop in R, hosted by Insight Centre for Data Analytics, DCU"
-	},
-	{
-		"title": "Coder Girl Hack Day",
-		"url": "eventbrite.ie/e/codergirlhackdaydcu-10am-4pm-tickets-18386613857",
-		"location": "Dublin",
-		"startdate": "2015-10-10",
-		"description": "CoderDojoGirls, GirlsHackIreland, Coding Grace, TOG Dublin have combined forced for an artsy themed coding hackathon to celebrate International Day Of the Girl."
-	},
-	{
-		"title": "Women who Code, Belfast",
-		"url": "meetup.com/Women-Who-Code-Belfast/events/225061840/",
-		"location": "Belfast",
-		"startdate": "2015-09-29",
-		"description": "September Meetup - CV writing tips, interview skills & importance of LinkedIn"
-	},
-	{
-		"title": "Women who Code, Belfast",
-		"url": "meetup.com/Women-Who-Code-Belfast/events/225062784/",
-		"location": "Belfast",
-		"startdate": "2015-11-24",
-		"description": "November Meetup - Front-End Web Development for Beginners"
-	},
-	{
-		"title": "Women who Code, Belfast",
-		"url": "meetup.com/Women-Who-Code-Belfast/events/225062829/",
-		"location": "Belfast",
-		"startdate": "2015-12-07",
-		"description": "December Meetup - Front-End Web Development for Improvers"
-	},
-	{
-		"title": "Coding Grace - Introduction to HTML5/CSS3 workshop",
-		"url": "meetup.com/codinggrace/events/225569585/",
-		"location": "Dublin",
-		"startdate": "2015-10-17",
-		"description": "This workshop will show you how to use HTML and CSS to make webpages"
-	},
-	{
-		"title": "PyLadies Dublin",
-		"url": "www.meetup.com/PyLadiesDublin/",
-		"location": "Dublin",
-		"startdate": "2015-10-20",
-		"description": "Our focus is to help more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community."
-	},
-	{
-		"title": "Women Who Code, Dublin - Launch Night",
-		"url": "www.meetup.com/Women-Who-Code-Dublin/events/225904975/",
-		"location": "Dublin",
-		"startdate": "2015-11-12",
-		"description": "Let's meet each other and have fun decide what we want to learn, share and build at WWC Dublin."
-	},
-	{
-	  "title": "Geek Girl Dinners - October Meetup",
-	  "url": "www.meetup.com/Ireland-Girl-Geek-Dinners/events/226025588/",
-	  "location": "Dublin",
-	  "startdate": "2015-10-22",
-	  "description": "Girl Geek Dinners are a chance for ladies in technology to get together, enjoy some nice food and drinks, and have fun meeting other women in their field."
-	},
-	{
-	  "title": "WITS25, Celebrating 25 Years of Women in Technology and Science",
-	  "url": "witsireland.com/events/?event_id=16/",
-	  "location": "Dublin",
-	  "startdate": "2015-11-03",
-	  "description": "Alicia Clements will talk about her life in STEM and how her career has developed from engineering to project management."
-	},
-	{
-	  "title": "Rails Girls Dublin",
-	  "url": "www.eventbrite.co.uk/e/rails-girls-dublin-2015-tickets-18647548319",
-	  "location": "Dublin",
-	  "startdate": "2015-11-21",
-	  "description": "For the third time Rails Girls is coming to Dublin! Join experts in Rails from the industry at Zendesk to learn how to make your very own web app."
-	},
-	{
-	  "title": "Ireland Girl Geek Dinners - December Meetup",
-	  "url": "www.meetup.com/Ireland-Girl-Geek-Dinners/events/226253615/",
-	  "location": "Dublin",
-	  "startdate": "2015-12-03",
-	  "description": "Girl Geek Dinners are a chance for ladies in technology to get together, enjoy some nice food and drinks, and have fun meeting other women in their field."
-	},
-	{
-	  "title": "WITS Ireland AGM",
-	  "url": "witsireland.com/events/?event_id=17",
-	  "location": "Dublin",
-	  "startdate": "2015-12-05",
-	  "description": "All members are invited to attend the AGM in the Science Gallery, Pearse Street, Dublin 2. The AGM will be followed by a light lunch and networking."
-	},
-	{
-		"title": "PyLadies Dublin - November Meetup",
-		"url": "www.meetup.com/PyLadiesDublin/events/226345067/",
-		"location": "Dublin",
-		"startdate": "2015-11-17",
-		"description": "Our focus is to help more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community."
-	},
-	{
-		"title": "PyLadies Dublin on a boat!",
-		"url": "www.meetup.com/PyLadiesDublin/events/226345329/",
-		"location": "Dublin",
-		"startdate": "2015-12-15",
-		"description": "Our meetup in December is on a cool co-sharing space on a barge courtesy of dospace.ie"
-	},
-	{
-		"title": "Women who Code, Belfast",
-		"url": "www.meetup.com/Women-Who-Code-Belfast/events/225062829/",
-		"location": "Belfast",
-		"startdate": "2015-12-14",
-		"description": "December Meetup - Front-End Web Development for Improvers"
-	},
-	{
-		"title": "PyLadies Dublin - January Meetup",
-		"url": "www.meetup.com/PyLadiesDublin/events/227551576/",
-		"location": "Dublin",
-		"startdate": "2016-01-19",
-		"description": "!!! Cryptoparty !!!"
-	},
-	{
-		"title": "Women Who Code, Dublin",
-		"url": "www.meetup.com/Women-Who-Code-Dublin/events/227595402/",
-		"location": "Dublin",
-		"startdate": "2016-01-14",
-		"description": "Python Hacknight (Fundamentals of programming)"
-	},
-	{
-		"title": "Coding Grace - Wearable Electronics Workshop",
-		"url": "www.meetup.com/codinggrace/events/227379105/",
-		"location": "Dublin",
-		"startdate": "2016-01-23",
-		"description": "In this female-friendly workshop, you will learn the basics of wearable electronics."
-	},
-	{
-	  "title": "Ireland Girl Geek Dinners - January Meetup",
-		"url": "www.meetup.com/Ireland-Girl-Geek-Dinners/events/227882048/",
-		"location": "Dublin",
-		"startdate": "2016-01-21",
-	  "description": "Girl Geek Dinners are a chance for ladies in technology to get together, enjoy some nice food and drinks, and have fun meeting other women in their field."
-	},
-	{
-		"title": "Coding Grace - Data Visualisation with Python",
-		"url": "www.meetup.com/codinggrace/events/227984347/",
-		"location": "Dublin",
-		"startdate": "2016-02-06",
-		"description": "This is a follow-on workshop from Data Analysis with Python."
+		"startdate": "2016-10-15",
+		"description": "CoderDojoGirls, Coding Grace and TOG Dublin PRESENTS Coder Girl Hack Day to celebrate International Day of the Girl and EU Code Week."
 	},
 	{
 		"title": "Django Girls Belfast",
-		"url": "djangogirls.org/belfast",
+		"url": "codinggrace.com/events/coder-girl-hack-day-2016/75/",
 		"location": "Belfast",
-		"startdate": "2016-02-20",
-		"description": "Free programming workshop for women. Code your first website on 20th February 2016 in Belfast."
-	},
-	{
-		"title": "InspireFest 2016",
-		"url": "www.inspirefest.com/",
-		"location": "Dublin",
-		"startdate": "2016-06-30",
-		"enddate": "2016-07-02",
-		"description": "A two day international sci-tech festival, which also celebrates diversity and inclusion in STEM."
-	},
-	{
-		"title": "Diversity CFP Workshop",
-		"url": "ti.to/scotlandjs/dublin-diversity-cfp-workshop",
-		"location": "Dublin",
-		"startdate": "2016-01-30",
-		"description": "ScotlandCSS and ScotlandJS are hosting a number of workshops to encourage you to take that next step in submitting a conference talk proposal."
-	},
-	{
-		"title": "Women Who Code Belfast - Network Engineering Evening",
-		"url": "www.meetup.com/Women-Who-Code-Belfast/events/228198285/",
-		"location": "Belfast",
-		"startdate": "2016-02-17",
-		"description": "This informative evening is not to be missed especially for those who would like to learn more about network engineering!"
-	},
-	{
-		"title": "PyLadies Dublin @ AOL",
-		"url": "www.meetup.com/PyLadiesDublin/events/227558085/",
-		"location": "Dublin",
-		"startdate": "2016-02-16",
-		"description": "Lightning Talks / Web API test with Python Robot Framework"
-	},
-	{
-		"title": "WITS - Unconscious Bias Workshop",
-		"url": "witsireland.com/events/?event_id=18",
-		"location": "Dublin",
-		"startdate": "2016-02-17",
-		"description": "Booking has now opened for the first WITS event of 2016. The Unconscious Bias workshop will take place on 17th Feb at Jury's Inn, Custom House Quay, starting at 6.30pm."
-	},
-	{
-		"title": "Women Who Code, Dublin - UX, JavaScript Hacknight",
-		"url": "www.meetup.com/Women-Who-Code-Dublin/events/228369025/",
-		"location": "Dublin",
-		"startdate": "2016-02-10",
-		"description": "We will be having a Hacknight with Talk and interactive session about UX, Workshop and Hands-On with JavaScript. Only 15 spots per session!"
-	},
-	{
-	  "title": "Ireland Girl Geek Dinners - February Meetup",
-		"url": "www.meetup.com/Ireland-Girl-Geek-Dinners/events/228547886/",
-		"location": "Dublin",
-		"startdate": "2016-02-18",
-	  "description": "Girl Geek Dinners are a chance for ladies in technology to get together, enjoy some nice food and drinks, and have fun meeting other women in their field."
-	},
-	{
-	  "title": "Women Techmakers Belfast Summit 2016",
-		"url": "www.eventbrite.ie/e/women-techmakers-belfast-summit-tickets-22401272810?aff=estw",
-		"location": "Belfast",
-		"startdate": "2016-04-06",
-	  "description": "This is conference-style event in recognition of International Women's Day, in conjunction with the Belfast Google Developer Group."
-	},
-	{
-	  "title": "WITS TALK: Careers Focus with Dr Sarah Bourke, CEO Skytek",
-		"url": "witsireland.com/events/?event_id=21",
-		"location": "Dublin",
-		"startdate": "2016-04-06",
-	  "description": "Join us for a talk by Dr Sarah Bourke, CEO Skytek and one of the winners of the 2016 EU Prize for Women Innovators. Sarah will tell her story, the story of Skytek and discuss some of the enablers and challenges along the way."
-	},
-	{
-	  "title": "Galway WITS Group Launch",
-		"url": "witsireland.com/events/?event_id=21",
-		"location": "Galway",
-		"startdate": "2016-04-27",
-	  "description": "Launch of Galway regional WITS group"
-	},
-	{
-	  "title": "WITS EVENT: Rationale for gender initiatives in research funding",
-		"url": "witsireland.com/events/?event_id=23",
-		"location": "Dublin",
-		"startdate": "2016-05-03",
-	  "description": "Talk by Fiona Blighe, followed by networking"
-	},
-	{
-	  "title": "Sligo WITS Group Launch",
-		"url": "witsireland.com/events/?event_id=21",
-		"location": "Sligo",
-		"startdate": "2016-05-11",
-	  "description": "Launch of Sligo regional WITS group"
-	},
-	{
-	  "title": "Women Who Code, Belfast - Lean Development",
-		"url": "www.meetup.com/Women-Who-Code-Belfast/events/229064461/",
-		"location": "Belfast",
-		"startdate": "2016-04-12",
-	  "description": "The topic will be Lean Development. Cayan will deliver a short presentation and a game that they use in their own training."
-	},
-	{
-		"title": "Django Girls Belfast - June Event",
-		"url": "djangogirls.org/belfast",
-		"location": "Belfast",
-		"startdate": "2016-06-25",
-		"description": "Free programming workshop for women between the ages of 18 and 100!"
-	},
-	{
-		"title": "Django Girls Dublin - April Event",
-		"url": "djangogirls.org/dublin",
-		"location": "Dublin",
-		"startdate": "2016-04-23",
-		"description": "Free programming workshop for women!"
-	},
-	{
-		"title": "Women Who Code, Dublin - Data Science Hacknight Series",
-		"url": "www.meetup.com/Women-Who-Code-Dublin/events/229810059/",
-		"location": "Dublin",
-		"startdate": "2016-04-21",
-		"description": "To continue our Hacknight Series on Data Science, Ana and Zalando's Team will be giving a practical session on Data Science!"
-	},
-	{
-		"title": "PyLadies Dublin @ Intercom",
-		"url": "www.meetup.com/PyLadiesDublin/events/230500754/",
-		"location": "Dublin",
-		"startdate": "2016-05-17",
-		"description": "More details to follow... we are looking for a speaker to talk or demo cool stuff."
-	},
-	{
-		"title": "Women Who Code Dublin: Dublin Data Visualisation - Hacknight Series Part 3",
-		"url": "www.meetup.com/Women-Who-Code-Dublin/events/231039224/",
-		"location": "Dublin",
-		"startdate": "2016-05-26",
-		"description": "This session will cover Data Visualisation and will be presented by Sergio, Data Scientist at Zalando."
-	},
-	{
-		"title": "Women@Dropbox - Dublin Women in Tech",
-		"url": "www.eventbrite.com/e/dublin-women-in-tech-tickets-24836300042",
-		"location": "Dublin",
-		"startdate": "2016-05-25",
-		"description": "Women@Dropbox are inviting folks from tech companies around Dublin who are interested in the topic of gender equality in the workplace to join us for this informal networking event."
-	},
-	{
-		"title": "Ireland Girl Geek Dinners - May Meetup",
-		"url": "www.meetup.com/Ireland-Girl-Geek-Dinners/events/231168462/",
-		"location": "Dublin",
-		"startdate": "2016-05-26",
-		"description": "The May Meetup will be hosted by Mobile Travel Technologies. Martina Coogan, a Senior Account Manager at MTT will be speaking at the event. More info to follow."
-	},
-	{
-		"title": "Attracting & retaining Women in the Cybersecurity Industry",
-		"url": "www.eventbrite.com/e/attracting-retaining-women-in-the-cybersecurity-industry-tickets-24970640859",
-		"location": "Dublin",
-		"startdate": "2016-05-26",
-		"description": "Women’s representation in cybersecurity has been low and is on decline. This OWASP Dublin chapter meeting aims to discuss many of the challenges around attracting and retaining women in the cybersecurity industry."
+		"startdate": "2016-10-01",
+		"enddate": "2016-12-10",
+		"description": "Free Django programming workshop for women between 14 - 100!"
 	}
 ]
