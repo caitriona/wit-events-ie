@@ -1,52 +1,38 @@
 [
 	{
-		"title": "Women in Fintech: Building Confidence in the Future",
-		"url": "www.meetup.com/FinTech-Ireland/events/233819999/",
+		"title": "#weAREhere Women in Tech 2017 Celebrations",
+		"url": "wearehere-womenintechireland2017.eventbrite.ie",
 		"location": "Dublin",
-		"startdate": "2016-09-15",
-		"description": "The Fintech and Payments Association of Ireland (FPAI) and Citi invite you to join them to discuss gender diversity in the Financial Services Technology Sector."
+		"startdate": "2017-01-16",
+		"description": "#weAREhere invites you to celebrate a new start of a brand new year at the wonderful whimsical Liquor Rooms with all our friends from Coding Grace, Digiwomen, Ireland Girl Geek Dinners, R Ladies, Women Who Code Dublin, and many more."
 	},
 	{
-		"title": "Talking Tech: How Men and Women Can Fix Tech Diversity Together",
-		"url": "www.eventbrite.com/e/talking-tech-how-men-and-women-can-fix-tech-diversity-together-tickets-27564715807",
+		"title": "PyLadies Dublin January Meetup @ Demonware",
+		"url": "www.meetup.com/PyLadiesDublin/events/233587243/",
 		"location": "Dublin",
-		"startdate": "2016-09-19",
-		"description": "Fixing the diversity gap in the tech world isn’t something CEOs, women, or hiring managers can do alone. Everyone needs to be part of the solution."
+		"startdate": "2017-01-17",
+		"description": "We are delighted to announce that Demonware is hosting us in our Jan PyLadies meetup."
 	},
 	{
-		"title": "PyLadies Dublin Sept Meetup",
-		"url": "www.meetup.com/PyLadiesDublin/events/232700076/",
+		"title": "WITS EVENT: Imposter Syndrome",
+		"url": "witsireland.com/events/?event_id=36",
 		"location": "Dublin",
-		"startdate": "2016-09-20",
-		"description": "'Web Scraping with Scrapy' by Mihai Todor. Remember to bring your laptop."
+		"startdate": "2017-01-17",
+		"description": "FEEL LIKE A FRAUD? You Could Be Struggling with ‘Imposter Syndrome’. Workshop will be led by Pauline Sargent, Founder of DigiWomen"
 	},
 	{
-		"title": "Women in Tech meetup - WITA chapter launch",
-		"url": "techweek.womenintechafrica.com/events/wita-ireland-chapter-tech-week-day-2-leadership-day-tuesday-27th-september-2016/",
+		"title": "Inspirefest 2017",
+		"url": "inspirefest.com/",
 		"location": "Dublin",
-		"startdate": "2016-09-27",
-		"description": "Addressing themes of entrepreneurship, technology and women leadership, we will hear from women entrepreneurs, founders and senior managers, who have inspiring career and entrepreneurship experience"
+		"startdate": "2017-07-06",
+		"enddate": "2017-07-08",
+		"description": "Inspirefest is a truly unique international festival of technology, science, design and the arts, which also happens to place diversity and inclusion at its heart."
 	},
 	{
-		"title": "WITS UCD Pizza Social",
-		"url": "witsireland.com/events/?event_id=26",
+		"title": "Kats Conf 2",
+		"url": "codinggrace.com/events/kats-conf-2/77/",
 		"location": "Dublin",
-		"startdate": "2016-09-29",
-		"description": "Our first student based event in UCD. Come along for some pizza, an insightful talk about what WITS is, as well as networking and a general chat."
-	},
-	{
-		"title": "Coder Girl Hack Day 2016",
-		"url": "codinggrace.com/events/coder-girl-hack-day-2016/75/",
-		"location": "Dublin",
-		"startdate": "2016-10-15",
-		"description": "CoderDojoGirls, Coding Grace and TOG Dublin PRESENTS Coder Girl Hack Day to celebrate International Day of the Girl and EU Code Week."
-	},
-	{
-		"title": "Django Girls Belfast",
-		"url": "codinggrace.com/events/coder-girl-hack-day-2016/75/",
-		"location": "Belfast",
-		"startdate": "2016-10-01",
-		"enddate": "2016-12-10",
-		"description": "Free Django programming workshop for women between 14 - 100!"
+		"startdate": "2017-02-18",
+		"description": "Kats Conf 2 is a conference whos main goal is for people to have a great time and learn about functional programming."
 	}
 ]
