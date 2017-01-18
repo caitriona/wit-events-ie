@@ -29,10 +29,24 @@
 		"description": "Inspirefest is a truly unique international festival of technology, science, design and the arts, which also happens to place diversity and inclusion at its heart."
 	},
 	{
-		"title": "Kats Conf 2",
-		"url": "codinggrace.com/events/kats-conf-2/77/",
+		"title": "Allyship Workshop at Kats Conf",
+		"url": "codinggrace.com/events/allyship-workshop-kats-conf/80/",
 		"location": "Dublin",
-		"startdate": "2017-02-18",
-		"description": "Kats Conf 2 is a conference whos main goal is for people to have a great time and learn about functional programming."
+		"startdate": "2017-02-17",
+		"description": "Kats Conf is delighted to announce Coding Grace and Workday are partnering together on an Allyship workshop. This event is open to everyone and is free to attend."
+	},
+	{
+		"title": "Ireland Girl Geek Dinners February Meetup",
+		"url": "meetup.com/Ireland-Girl-Geek-Dinners/events/237010226/",
+		"location": "Dublin",
+		"startdate": "2017-02-23",
+		"description": "A showcase on the women who work in the Dublin Workday office highlighting the areas where women make a difference in the company's technology, innovation, and culture."
+	},
+	{
+		"title": "PyLadies Dublin February Meetup @ Qualtrics",
+		"url": "meetup.com/PyLadiesDublin/events/236583794/",
+		"location": "Dublin",
+		"startdate": "2017-02-21",
+		"description": "We are delighted to have Qualtrics hosting our Feb meetup and they will be providing food and drink as well."
 	}
 ]
