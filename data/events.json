@@ -48,5 +48,21 @@
 		"location": "Dublin",
 		"startdate": "2017-02-21",
 		"description": "We are delighted to have Qualtrics hosting our Feb meetup and they will be providing food and drink as well."
+	},
+	{
+		"title": "I Wish Conference, Cork",
+		"url": "iwish.ie/registration-cork/",
+		"location": "Cork",
+		"startdate": "2017-02-09",
+		"enddate": "2017-02-10",
+		"description": "I Wish is an initiative to inspire, encourage and motivate young secondary school female students to pursue careers in STEM."
+	},
+	{
+		"title": "I Wish Conference, Dublin",
+		"url": "iwish.ie/registration/",
+		"location": "Dublin",
+		"startdate": "2017-02-13",
+		"enddate": "2017-02-14",
+		"description": "I Wish is an initiative to inspire, encourage and motivate young secondary school female students to pursue careers in STEM."
 	}
 ]
