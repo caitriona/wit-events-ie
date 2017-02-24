@@ -1,68 +1,53 @@
 [
 	{
-		"title": "#weAREhere Women in Tech 2017 Celebrations",
-		"url": "wearehere-womenintechireland2017.eventbrite.ie",
-		"location": "Dublin",
-		"startdate": "2017-01-16",
-		"description": "#weAREhere invites you to celebrate a new start of a brand new year at the wonderful whimsical Liquor Rooms with all our friends from Coding Grace, Digiwomen, Ireland Girl Geek Dinners, R Ladies, Women Who Code Dublin, and many more."
-	},
-	{
-		"title": "PyLadies Dublin January Meetup @ Demonware",
-		"url": "www.meetup.com/PyLadiesDublin/events/233587243/",
-		"location": "Dublin",
-		"startdate": "2017-01-17",
-		"description": "We are delighted to announce that Demonware is hosting us in our Jan PyLadies meetup."
-	},
-	{
-		"title": "WITS EVENT: Imposter Syndrome",
-		"url": "witsireland.com/events/?event_id=36",
-		"location": "Dublin",
-		"startdate": "2017-01-17",
-		"description": "FEEL LIKE A FRAUD? You Could Be Struggling with ‘Imposter Syndrome’. Workshop will be led by Pauline Sargent, Founder of DigiWomen"
-	},
-	{
 		"title": "Inspirefest 2017",
-		"url": "inspirefest.com/",
+		"url": "inspirefest.com",
 		"location": "Dublin",
 		"startdate": "2017-07-06",
 		"enddate": "2017-07-08",
 		"description": "Inspirefest is a truly unique international festival of technology, science, design and the arts, which also happens to place diversity and inclusion at its heart."
 	},
 	{
-		"title": "Allyship Workshop at Kats Conf",
-		"url": "codinggrace.com/events/allyship-workshop-kats-conf/80/",
+		"title": "WITS Speed Networking",
+		"url": "witsireland.com/events/?event_id=38",
 		"location": "Dublin",
-		"startdate": "2017-02-17",
-		"description": "Kats Conf is delighted to announce Coding Grace and Workday are partnering together on an Allyship workshop. This event is open to everyone and is free to attend."
+		"startdate": "2017-02-28",
+		"description": "For those of you involved or interested in STEM to have some fun while expanding your circles of contacts."
 	},
 	{
-		"title": "Ireland Girl Geek Dinners February Meetup",
-		"url": "meetup.com/Ireland-Girl-Geek-Dinners/events/237010226/",
-		"location": "Dublin",
-		"startdate": "2017-02-23",
-		"description": "A showcase on the women who work in the Dublin Workday office highlighting the areas where women make a difference in the company's technology, innovation, and culture."
+		"title": "Women Who Code Belfast, March Meetup",
+		"url": "www.meetup.com/Women-Who-Code-Belfast/events/237131669/",
+		"location": "Belfast",
+		"startdate": "2017-03-27",
+		"description": "An evening with Instil & Women Who Code"
 	},
 	{
-		"title": "PyLadies Dublin February Meetup @ Qualtrics",
-		"url": "meetup.com/PyLadiesDublin/events/236583794/",
+		"title": "#weAREhere Careers in Tech",
+		"url": "codinggrace.com/events/wearehere-careers-tech/82/",
 		"location": "Dublin",
-		"startdate": "2017-02-21",
-		"description": "We are delighted to have Qualtrics hosting our Feb meetup and they will be providing food and drink as well."
+		"startdate": "2017-03-21",
+		"description": "Let's demystify jobs in tech. We invited a panel to tell you about their experiences in getting hired for a tech job."
 	},
 	{
-		"title": "I Wish Conference, Cork",
-		"url": "iwish.ie/registration-cork/",
-		"location": "Cork",
-		"startdate": "2017-02-09",
-		"enddate": "2017-02-10",
-		"description": "I Wish is an initiative to inspire, encourage and motivate young secondary school female students to pursue careers in STEM."
+		"title": "Rails Girls Dublin 2017",
+		"url": "railsgirls.com/dublin#.html",
+		"location": "Dublin",
+		"startdate": "2017-03-10",
+		"enddate": "2017-03-11",
+		"description": "During the free two-day workshop we'll explore the magical world of Ruby on Rails, and build an application together."
 	},
 	{
-		"title": "I Wish Conference, Dublin",
-		"url": "iwish.ie/registration/",
+		"title": "Django Girls Belfast",
+		"url": "djangogirls.org/belfast/",
+		"location": "Belfast",
+		"startdate": "2017-03-25",
+		"description": "Build your first website with Django Girls Belfast!"
+	},
+	{
+		"title": "Celebrating Successful Women in Engineering",
+		"url": "www.internationalwomensday.com/Activity/8179/Celebrating-Successful-Women-in-Engineering",
 		"location": "Dublin",
-		"startdate": "2017-02-13",
-		"enddate": "2017-02-14",
-		"description": "I Wish is an initiative to inspire, encourage and motivate young secondary school female students to pursue careers in STEM."
+		"startdate": "2017-03-08",
+		"description": "Lecture series celebrating International Women's day and Engineers Week"
 	}
 ]
