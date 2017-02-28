@@ -49,5 +49,19 @@
 		"location": "Dublin",
 		"startdate": "2017-03-08",
 		"description": "Lecture series celebrating International Women's day and Engineers Week"
+	},
+	{
+		"title": "Learn simple HTML coding",
+		"url": "www.meetup.com/codinggrace/events/238038926/",
+		"location": "Wexford",
+		"startdate": "2017-03-13",
+		"description": "We will learn the basics of html, every web page you were ever on is made using html."
+	},
+	{
+		"title": "Introduction to the Tidyverse Toolkit for R",
+		"url": "www.meetup.com/codinggrace/events/238038738/",
+		"location": "Dublin",
+		"startdate": "2017-03-11",
+		"description": "Beginner-friendly R workshop introducing the tidyverse toolkit"
 	}
 ]
