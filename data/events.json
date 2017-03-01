@@ -63,5 +63,12 @@
 		"location": "Dublin",
 		"startdate": "2017-03-11",
 		"description": "Beginner-friendly R workshop introducing the tidyverse toolkit"
+	},
+	{
+		"title": "Girls Hack Ireland",
+		"url": "www.eventbrite.ie/e/girls-hack-ireland-dublin-tickets-31543506477",
+		"location": "Dublin",
+		"startdate": "2017-03-11",
+		"description": "Web building workshop for 13 - 17 year old girls"
 	}
 ]
