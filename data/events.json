@@ -8,67 +8,87 @@
 		"description": "Inspirefest is a truly unique international festival of technology, science, design and the arts, which also happens to place diversity and inclusion at its heart."
 	},
 	{
-		"title": "WITS Speed Networking",
-		"url": "witsireland.com/events/?event_id=38",
+		"title": "Girls in Tech Dublin - Design Thinking in Global Payments",
+		"url": "eventbrite.ie/e/design-thinking-realex-payments-by-girls-in-tech-tickets-32988781333",
 		"location": "Dublin",
-		"startdate": "2017-02-28",
-		"description": "For those of you involved or interested in STEM to have some fun while expanding your circles of contacts."
+		"startdate": "2017-05-11",
+		"description": "Girls in Tech Dublin is back, hosted by Realex Payments. Come, mingle, meet people, listen learn, and get invovled! Drinks and appetisers will be served."
 	},
 	{
-		"title": "Women Who Code Belfast, March Meetup",
-		"url": "www.meetup.com/Women-Who-Code-Belfast/events/237131669/",
+		"title": "Women Who Code, Dublin - Sharing Scala Stories @ Workday",
+		"url": "meetup.com/Women-Who-Code-Dublin/events/238777487/",
+		"location": "Dublin",
+		"startdate": "2017-04-19",
+		"description": "We will be hosting our next meet up at Workday Dublin HQ. This Month’s topic is focused on sharing our amazing stories around functional programming and scala."
+	},
+	{
+		"title": "PyLadies Dublin - May Meetup",
+		"url": "meetup.com/PyLadiesDublin/events/236605259/",
+		"location": "Dublin",
+		"startdate": "2017-05-15",
+		"description": "Joanna Moran will be giving a 10 minute talk about 'AI Landscape in Ireland and EU'. Location and 2nd speaker TBC."
+	},
+	{
+		"title": "Coding Grace Wexford - HTML5 session",
+		"url": "meetup.com/codinggrace/events/238720684/",
+		"location": "Wexford",
+		"startdate": "2017-04-24",
+		"description": "For those who wish to join and learn the basics the EASY way."
+	},
+	{
+		"title": "WITS - The Entrepreneurship Rollercoaster",
+		"url": "witsireland.com/events/?event_id=40",
+		"location": "Dublin",
+		"startdate": "2017-05-02",
+		"description": "Cristina Luminea will bring you through the experience of being an entrepreneur from the very beginnings, overcoming the fear of quitting your job and starting up to the point of having to make the decision of closing down."
+	},
+	{
+		"title": "WITS - Unconscious Bias",
+		"url": "witsireland.com/events/?event_id=42",
+		"location": "Cork",
+		"startdate": "2017-05-09",
+		"description": "Ita O’Sullivan is Startup Community Manager in Bank of Ireland. She has previously worked as Design and Deployment Lead in Google. She is passionate about diversity and inclusion in startups."
+	},
+	{
+		"title": "OWASP & Women Who Code: An evening of Cyber Security with the Pros",
+		"url": "meetup.com/Women-Who-Code-Belfast/events/237412562/",
 		"location": "Belfast",
-		"startdate": "2017-03-27",
-		"description": "An evening with Instil & Women Who Code"
+		"startdate": "2017-05-08",
+		"description": "This joint OWASP and WWCode meetup will be focusing on diversity in the cyber security community, how to get into cyber security, and why you should care."
 	},
 	{
-		"title": "#weAREhere Careers in Tech",
-		"url": "codinggrace.com/events/wearehere-careers-tech/82/",
-		"location": "Dublin",
-		"startdate": "2017-03-21",
-		"description": "Let's demystify jobs in tech. We invited a panel to tell you about their experiences in getting hired for a tech job."
+		"title": "WWCode & Your job search",
+		"url": "meetup.com/Women-Who-Code-Belfast/events/237131835/",
+		"location": "Belfast",
+		"startdate": "2017-05-22",
+		"description": "Women Who Code are here to help you land the job of your dreams. This event will provide you with the knowledge you need to secure interviews and ace them."
 	},
 	{
-		"title": "Rails Girls Dublin 2017",
-		"url": "railsgirls.com/dublin#.html",
+		"title": "WWCode & Your job search",
+		"url": "codessdublin.splashthat.com/",
 		"location": "Dublin",
-		"startdate": "2017-03-10",
-		"enddate": "2017-03-11",
-		"description": "During the free two-day workshop we'll explore the magical world of Ruby on Rails, and build an application together."
+		"startdate": "2017-04-24",
+		"description": "The event will be a great chance to meet new people, learn from one another, and empower each other to think big every day!"
 	},
 	{
 		"title": "Django Girls Belfast",
 		"url": "djangogirls.org/belfast/",
 		"location": "Belfast",
-		"startdate": "2017-03-25",
-		"description": "Build your first website with Django Girls Belfast!"
+		"startdate": "2017-06-03",
+		"description": "We want women to experience what it is like to code and work with technology. Our goal is to create a safe environment where women can explore technology."
 	},
 	{
-		"title": "Celebrating Successful Women in Engineering",
-		"url": "www.internationalwomensday.com/Activity/8179/Celebrating-Successful-Women-in-Engineering",
+		"title": "Lovelace Space - Stitch with Hoopla",
+		"url": "dublin.sciencegallery.com/events/2017/04/latemakestitchhoopla",
 		"location": "Dublin",
-		"startdate": "2017-03-08",
-		"description": "Lecture series celebrating International Women's day and Engineers Week"
+		"startdate": "2017-04-26",
+		"description": "Hoopla uses an AI system to design embroidery sampler patterns that are then hand-stitched. Learn how to hand-stich AI sampler patterns to take home with you."
 	},
 	{
-		"title": "Learn simple HTML coding",
-		"url": "www.meetup.com/codinggrace/events/238038926/",
-		"location": "Wexford",
-		"startdate": "2017-03-13",
-		"description": "We will learn the basics of html, every web page you were ever on is made using html."
-	},
-	{
-		"title": "Introduction to the Tidyverse Toolkit for R",
-		"url": "www.meetup.com/codinggrace/events/238038738/",
-		"location": "Dublin",
-		"startdate": "2017-03-11",
-		"description": "Beginner-friendly R workshop introducing the tidyverse toolkit"
-	},
-	{
-		"title": "Girls Hack Ireland",
-		"url": "www.eventbrite.ie/e/girls-hack-ireland-dublin-tickets-31543506477",
-		"location": "Dublin",
-		"startdate": "2017-03-11",
-		"description": "Web building workshop for 13 - 17 year old girls"
+		"title": "Google Women Techmakers Belfast Summit 2017",
+		"url": "metooo.io/e/google-women-techmakers-belfast-summit-2017",
+		"location": "Belfast",
+		"startdate": "2017-04-28",
+		"description": "Women Techmakers is Google’s brand and global programme for women in technology. It is an initiative that aims to raise awareness of innovative female leaders in technology and inspire others to join the field."
 	}
 ]
