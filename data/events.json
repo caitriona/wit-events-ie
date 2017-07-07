@@ -1,38 +1,30 @@
 [
 	{
-		"title": "Inspirefest 2017",
-		"url": "inspirefest.com",
-		"location": "Dublin",
-		"startdate": "2017-07-06",
-		"enddate": "2017-07-08",
-		"description": "Inspirefest is a truly unique international festival of technology, science, design and the arts, which also happens to place diversity and inclusion at its heart."
-	},
-	{
-		"title": "Meet Amazing Data Women",
-		"url": "meetup.com/XX-Data/events/240967364/",
-		"location": "Dublin",
-		"startdate": "2017-06-29",
-		"description": "Amazing women who work with data will share their inspiring career stories with us."
-	},
-	{
-		"title": "Ireland Girl Geek Dinners June Meetup",
-		"url": "meetup.com/Ireland-Girl-Geek-Dinners/events/240840419/",
-		"location": "Dublin",
-		"startdate": "2017-06-28",
-		"description": "This meet up will look at recent data gathered in Ireland about how people feel impacted by unconscious gender bias in the workplace."
-	},
-	{
-		"title": "R-Ladies Dublin",
-		"url": "meetup.com/R-Ladies-Dublin/events/240739148/",
-		"location": "Dublin",
-		"startdate": "2017-06-29",
-		"description": "Storytelling based on Gravity Anomaly Data"
-	},
-	{
 		"title": "PyLadies Dublin July Meetup @ Workday",
 		"url": "meetup.com/PyLadiesDublin/events/236605262/",
 		"location": "Dublin",
 		"startdate": "2017-07-18",
 		"description": "We have two speakers from Workday who will be hosting us for our July meetup. Food and refreshments will also be provided."
+	},
+	{
+		"title": "WWCode SOCIAL: Software Engineering @ Scale, Using Scrum, Kanban & Team Process",
+		"url": "meetup.com/Women-Who-Code-Belfast/events/237131796/",
+		"location": "Belfast",
+		"startdate": "2017-07-14",
+		"description": "This event will see BazaarVoice talk about different roles and how they leverage them using leadership and organizational alignment."
+	},
+	{
+		"title": "Ladies That UX Dublin July Meetup",
+		"url": "meetup.com/Ladies-That-UX-Dublin/events/241244470/",
+		"location": "Dublin",
+		"startdate": "2017-07-26",
+		"description": "Ladies That UX Dublin July Meetup."
+	},
+	{
+		"title": "R-Ladies Dublin - Hands-on knowledge-sharing workshop in R",
+		"url": "meetup.com/R-Ladies-Dublin/events/240997795/",
+		"location": "Dublin",
+		"startdate": "2017-07-26",
+		"description": "A hands-on workshop for all levels."
 	}
 ]
