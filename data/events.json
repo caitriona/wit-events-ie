@@ -55,5 +55,26 @@
 		"location":			"Belfast",
 		"startdate":		"2018-06-16",
 		"description":	"Helping women experience what it is like to code and work with technology."
+	},
+	{
+		"title":				"Girl Develop It, Cork, June Meetup",
+		"url":					"meetup.com/meetup-group-KtPOQaae/events/250876613/",
+		"location":			"Cork",
+		"startdate":		"2018-06-19",
+		"description":	"Code & Coffee. This will be an informal event where members can meet each other and collaborate."
+	},
+	{
+		"title":				"Women in Tech Belfast Lean In",
+		"url":					"meetup.com/Women-In-Tech-Belfast-Lean-In/events/246383704/",
+		"location":			"Belfast",
+		"startdate":		"2018-06-19",
+		"description":	"Digital DNA - Humans in Tech - Panel Discussion & After Party, (ticket to Digital DNA required)"
+	},
+	{
+		"title":				"Girls in Tech, Dublin",
+		"url":					"eventbrite.ie/e/girls-in-tech-learning-about-failure-from-inspirational-women-in-tech-tickets-46171005721",
+		"location":			"Dublin",
+		"startdate":		"2018-06-20",
+		"description":	"Learning about failure from inspirational women in tech."
 	}
 ]
