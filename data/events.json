@@ -1,30 +1,59 @@
 [
 	{
-		"title": "PyLadies Dublin July Meetup @ Workday",
-		"url": "meetup.com/PyLadiesDublin/events/236605262/",
-		"location": "Dublin",
-		"startdate": "2017-07-18",
-		"description": "We have two speakers from Workday who will be hosting us for our July meetup. Food and refreshments will also be provided."
+		"title":				"inspirefest",
+		"url":					"inspirefest.com",
+		"location":			"Dublin",
+		"startdate":		"2018-06-21",
+		"enddate":			"2018-06-22",
+		"description":	"Inspirefest is a unique international festival of technology, science, design and the arts."
 	},
 	{
-		"title": "WWCode SOCIAL: Software Engineering @ Scale, Using Scrum, Kanban & Team Process",
-		"url": "meetup.com/Women-Who-Code-Belfast/events/237131796/",
-		"location": "Belfast",
-		"startdate": "2017-07-14",
-		"description": "This event will see BazaarVoice talk about different roles and how they leverage them using leadership and organizational alignment."
+		"title":				"PyLadies Dublin & Kx Community Meetup",
+		"url":					"meetup.com/PyLadiesDublin/events/dclgvlyxjbzb/",
+		"location":			"Dublin",
+		"startdate":		"2018-06-19",
+		"description":	"2 talks; 'Big Data Analytics with Time-Series Database kdb+', 'embedPy, the newest interface between kdb+ and Python'"
 	},
 	{
-		"title": "Ladies That UX Dublin July Meetup",
-		"url": "meetup.com/Ladies-That-UX-Dublin/events/241244470/",
-		"location": "Dublin",
-		"startdate": "2017-07-26",
-		"description": "Ladies That UX Dublin July Meetup."
+		"title":				"Women Who Code, Dublin, July Meetup",
+		"url":					"meetup.com/Women-Who-Code-Dublin/events/250773441/",
+		"location":			"Dublin",
+		"startdate":		"2018-07-05",
+		"description":	"Talks and Discussion on Data Tools in Business"
 	},
 	{
-		"title": "R-Ladies Dublin - Hands-on knowledge-sharing workshop in R",
-		"url": "meetup.com/R-Ladies-Dublin/events/240997795/",
-		"location": "Dublin",
-		"startdate": "2017-07-26",
-		"description": "A hands-on workshop for all levels."
+		"title":				"HER+Data Meet Amazing Data Women",
+		"url":					"meetup.com/HER-Data/events/251580822/",
+		"location":			"Dublin",
+		"startdate":		"2018-06-19",
+		"description":	"We have invited more amazing women who work with data to share their inspiring career stories with us. We’ll have great talks from female data scientists, students, and women passionate about analytics and data science."
+	},
+	{
+		"title":				"R-Ladies Dublin, June Meetup",
+		"url":					"meetup.com/R-Ladies-Dublin/events/251053336/",
+		"location":			"Dublin",
+		"startdate":		"2018-06-19",
+		"description":	"How to create choropleth maps in R"
+	},
+	{
+		"title":				"STEMMinist Book Club",
+		"url":					"eventbrite.com/e/stemminist-book-club-a-lab-of-ones-own-tickets-46925747173",
+		"location":			"Dublin",
+		"startdate":		"2018-07-03",
+		"description":	"The book for the next WITS STEMMinist Book club is 'A Lab of One's Own' by Patricia Fara"
+	},
+	{
+		"title":				"Ladies that UX, Dublin, June Meetup",
+		"url":					"eventbrite.ie/e/responsible-artificial-intelligence-tickets-46263900572",
+		"location":			"Dublin",
+		"startdate":		"2018-06-25",
+		"description":	"Responsible Artificial Intelligence"
+	},
+	{
+		"title":				"Django Girls Belfast",
+		"url":					"djangogirls.org/belfast/",
+		"location":			"Belfast",
+		"startdate":		"2018-06-16",
+		"description":	"Helping women experience what it is like to code and work with technology."
 	}
 ]
