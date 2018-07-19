@@ -1,80 +1,44 @@
 [
 	{
-		"title":				"inspirefest",
-		"url":					"inspirefest.com",
+		"title":				"Women in Tech Awards",
+		"url":					"womenxtech.com",
 		"location":			"Dublin",
-		"startdate":		"2018-06-21",
-		"enddate":			"2018-06-22",
-		"description":	"Inspirefest is a unique international festival of technology, science, design and the arts."
+		"startdate":		"2018-11-22",
+		"description":	"Ireland’s first annual celebration of women and diversity in the technology industry."
 	},
 	{
-		"title":				"PyLadies Dublin & Kx Community Meetup",
-		"url":					"meetup.com/PyLadiesDublin/events/dclgvlyxjbzb/",
+		"title":				"Women who Code, Dublin",
+		"url":					"meetup.com/Women-Who-Code-Dublin/events/251198518/",
 		"location":			"Dublin",
-		"startdate":		"2018-06-19",
-		"description":	"2 talks; 'Big Data Analytics with Time-Series Database kdb+', 'embedPy, the newest interface between kdb+ and Python'"
+		"startdate":		"2018-08-02",
+		"description":	"Talks on Kafka and all things tech"
 	},
 	{
-		"title":				"Women Who Code, Dublin, July Meetup",
-		"url":					"meetup.com/Women-Who-Code-Dublin/events/250773441/",
+		"title":				"PyLadies Dublin August Meetup",
+		"url":					"meetup.com/PyLadiesDublin/events/dclgvlyxlbcc/",
 		"location":			"Dublin",
-		"startdate":		"2018-07-05",
-		"description":	"Talks and Discussion on Data Tools in Business"
+		"startdate":		"2018-08-21",
+		"description":	"Using Python to Automate Trello Workflows / Building continuous delivery deployment tools in python"
 	},
 	{
-		"title":				"HER+Data Meet Amazing Data Women",
-		"url":					"meetup.com/HER-Data/events/251580822/",
+		"title":				"Girl develop it, Cork",
+		"url":					"meetup.com/meetup-group-KtPOQaae/events/mtlwvpyxlbcc/",
 		"location":			"Dublin",
-		"startdate":		"2018-06-19",
-		"description":	"We have invited more amazing women who work with data to share their inspiring career stories with us. We’ll have great talks from female data scientists, students, and women passionate about analytics and data science."
+		"startdate":		"2018-08-21",
+		"description":	"August Meetup, Code & Coffee"
 	},
 	{
-		"title":				"R-Ladies Dublin, June Meetup",
-		"url":					"meetup.com/R-Ladies-Dublin/events/251053336/",
+		"title":				"Women In Tech Belfast (Lean In)",
+		"url":					"meetup.com/Women-In-Tech-Belfast-Lean-In/events/246383758/",
 		"location":			"Dublin",
-		"startdate":		"2018-06-19",
-		"description":	"How to create choropleth maps in R"
-	},
-	{
-		"title":				"STEMMinist Book Club",
-		"url":					"eventbrite.com/e/stemminist-book-club-a-lab-of-ones-own-tickets-46925747173",
-		"location":			"Dublin",
-		"startdate":		"2018-07-03",
-		"description":	"The book for the next WITS STEMMinist Book club is 'A Lab of One's Own' by Patricia Fara"
-	},
-	{
-		"title":				"Ladies that UX, Dublin, June Meetup",
-		"url":					"eventbrite.ie/e/responsible-artificial-intelligence-tickets-46263900572",
-		"location":			"Dublin",
-		"startdate":		"2018-06-25",
-		"description":	"Responsible Artificial Intelligence"
-	},
-	{
-		"title":				"Django Girls Belfast",
-		"url":					"djangogirls.org/belfast/",
-		"location":			"Belfast",
-		"startdate":		"2018-06-16",
-		"description":	"Helping women experience what it is like to code and work with technology."
-	},
-	{
-		"title":				"Girl Develop It, Cork, June Meetup",
-		"url":					"meetup.com/meetup-group-KtPOQaae/events/250876613/",
-		"location":			"Cork",
-		"startdate":		"2018-06-19",
-		"description":	"Code & Coffee. This will be an informal event where members can meet each other and collaborate."
-	},
-	{
-		"title":				"Women in Tech Belfast Lean In",
-		"url":					"meetup.com/Women-In-Tech-Belfast-Lean-In/events/246383704/",
-		"location":			"Belfast",
-		"startdate":		"2018-06-19",
-		"description":	"Digital DNA - Humans in Tech - Panel Discussion & After Party, (ticket to Digital DNA required)"
+		"startdate":		"2018-09-18",
+		"description":	"Negotiating Promotions and Payrises"
 	},
 	{
 		"title":				"Girls in Tech, Dublin",
-		"url":					"eventbrite.ie/e/girls-in-tech-learning-about-failure-from-inspirational-women-in-tech-tickets-46171005721",
+		"url":					"eventbrite.ie/e/stepping-up-a-mentorship-program-to-empower-women-tickets-46842885331/",
 		"location":			"Dublin",
-		"startdate":		"2018-06-20",
-		"description":	"Learning about failure from inspirational women in tech."
+		"startdate":		"2018-09-06",
+		"description":	"Stepping UP - A mentorship program to empower women"
 	}
 ]
