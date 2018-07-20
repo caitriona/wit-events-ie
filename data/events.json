@@ -23,14 +23,14 @@
 	{
 		"title":				"Girl develop it, Cork",
 		"url":					"meetup.com/meetup-group-KtPOQaae/events/mtlwvpyxlbcc/",
-		"location":			"Dublin",
+		"location":			"Cork",
 		"startdate":		"2018-08-21",
 		"description":	"August Meetup, Code & Coffee"
 	},
 	{
 		"title":				"Women In Tech Belfast (Lean In)",
 		"url":					"meetup.com/Women-In-Tech-Belfast-Lean-In/events/246383758/",
-		"location":			"Dublin",
+		"location":			"Belfast",
 		"startdate":		"2018-09-18",
 		"description":	"Negotiating Promotions and Payrises"
 	},
@@ -47,5 +47,13 @@
 		"location":			"Dublin",
 		"startdate":		"2018-09-12",
 		"description":	"Women of Wearables Professional Networking is Rocking Again!"
+	},
+	{
+		"title":				"Belfast IT Girls",
+		"url":					"belfastitgirls.com",
+		"location":			"Belfast",
+		"startdate":		"2018-08-06",
+		"enddate":			"2018-08-10",
+		"description":	"A week-long technology camp for girls aged 15-19 to develop Digital, IT & Creative skills."
 	}
 ]
