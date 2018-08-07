@@ -7,13 +7,6 @@
 		"description":	"Ireland’s first annual celebration of women and diversity in the technology industry."
 	},
 	{
-		"title":				"Women who Code, Dublin",
-		"url":					"meetup.com/Women-Who-Code-Dublin/events/251198518/",
-		"location":			"Dublin",
-		"startdate":		"2018-08-02",
-		"description":	"Talks on Kafka and all things tech"
-	},
-	{
 		"title":				"PyLadies Dublin August Meetup",
 		"url":					"meetup.com/PyLadiesDublin/events/dclgvlyxlbcc/",
 		"location":			"Dublin",
@@ -55,5 +48,54 @@
 		"startdate":		"2018-08-06",
 		"enddate":			"2018-08-10",
 		"description":	"A week-long technology camp for girls aged 15-19 to develop Digital, IT & Creative skills."
+	},
+	{
+		"title":				"Diversity in Tech: Data Workshop",
+		"url":					"ti.to/coding-grace/diversity-in-data-workshop-2018",
+		"location":			"Dublin",
+		"startdate":		"2018-09-22",
+		"description":	"Full day workshop including beginners R and Python, intermediate workshops and a competition."
+	},
+	{
+		"title":				"Django workshop for beginners",
+		"url":					"eventbrite.ie/e/programming-workshop-for-women-tickets-47144277804",
+		"location":			"Sligo",
+		"startdate":		"2018-09-08",
+		"description":	"A one-day workshop for beginners based on tutorial by Django Girls."
+	},
+	{
+		"title":				"Women in Mathematics Day",
+		"url":					"eventbrite.ie/e/women-in-mathematics-day-ireland-2018-tickets-46531722635",
+		"location":			"Dublin",
+		"startdate":		"2018-08-29",
+		"description":	"Talks and poster presentations will be given by women and men from both academia and industry."
+	},
+	{
+		"title":				"All Women In Tech Summer Social",
+		"url":					"meetup.com/Women-In-Tech-Belfast-Lean-In/events/253379559/",
+		"location":			"Belfast",
+		"startdate":		"2018-08-31",
+		"description":	"A relaxed evening of drinks, nibbles, networking and socialising."
+	},
+	{
+		"title":				"Women Sho Code Dublin: September Meetup",
+		"url":					"meetup.com/Women-Who-Code-Dublin/events/251198504/",
+		"location":			"Dublin",
+		"startdate":		"2018-09-06",
+		"description":	"September Meetup at Riot Games"
+	},
+	{
+		"title":				"Ladies that UX Dublin: August Meetup",
+		"url":					"eventbrite.ie/e/accessibility-in-ux-tickets-48716251620",
+		"location":			"Dublin",
+		"startdate":		"2018-08-28",
+		"description":	"Talks about Accessibility in UX"
+	},
+	{
+		"title":				"Women in Blockchain August Meetup",
+		"url":					"meetup.com/Women-in-Blockchain-Dublin/events/253315852/",
+		"location":			"Dublin",
+		"startdate":		"2018-08-08",
+		"description":	"Design Principles for Blockchain"
 	}
 ]
