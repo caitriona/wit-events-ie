@@ -96,5 +96,13 @@
 		"location":			"Belfast",
 		"startdate":		"2019-10-15",
 		"description":	"Do you want to set up a Women's Network or Diversity & Inclusion team in your company? Or want to share best practice with more experienced companies?"
+	},
+	{
+		"title":				"Women in Tech Dublin, Conference",
+		"url":					"women-in-tech-dublin.com",
+		"location":			"Dublin",
+		"startdate":		"2019-09-12",
+		"enddate":			"2019-09-13",
+		"description":	"Join over 1,000 inspirational women (and men!) in technology for two days of innovative content in a diverse and inclusive environment."
 	}
 ]
