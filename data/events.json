@@ -1,101 +1,100 @@
 [
 	{
-		"title":				"Women in Tech Awards",
-		"url":					"womenxtech.com",
+		"title":				"Mums Who Tech",
+		"url":					"eventbrite.com/e/mums-who-tech-tickets-62084469319",
+		"location":			"Dundrum, Dublin",
+		"startdate":		"2019-05-31",
+		"description":	"Join us for this baby-friendly meetup and hear from our three fantastic speakers."
+	},
+	{
+		"title":				"Girls in Tech, Dublin Hackathon",
+		"url":					"eventbrite.ie/e/come-to-our-technology-hackathon-in-ireland-tickets-55403181407",
 		"location":			"Dublin",
-		"startdate":		"2018-11-22",
-		"description":	"Ireland’s first annual celebration of women and diversity in the technology industry."
+		"startdate":		"2019-05-24",
+		"description":	"We work with local Charities so that attendees can solve pressing and relevant business challenges that will make a difference in their community."
 	},
 	{
-		"title":				"PyLadies Dublin August Meetup",
-		"url":					"meetup.com/PyLadiesDublin/events/dclgvlyxlbcc/",
+		"title":				"Women CyberSecurity Society - Mentor Monday, Online Event",
+		"url":					"meetup.com/Women-CyberSecurity-Society-Dublin-Ireland/events/pkzdzqyzhbkc/",
+		"location":			"Online",
+		"startdate":		"2019-05-27",
+		"description":	"Join us for our live online Q&A session and ask an industry expert anything on mentoring."
+	},
+	{
+		"title":				"Women CyberSecurity Society - Mentor Monday, Online Event",
+		"url":					"meetup.com/Women-CyberSecurity-Society-Dublin-Ireland/events/pkzdzqyzhbkc/",
+		"location":			"Online",
+		"startdate":		"2019-06-03",
+		"description":	"Join us for our live online Q&A session and ask an industry expert anything on mentoring."
+	},
+	{
+		"title":				"Women CyberSecurity Society - Mentor Monday, Online Event",
+		"url":					"meetup.com/Women-CyberSecurity-Society-Dublin-Ireland/events/pkzdzqyzhbkc/",
+		"location":			"Online",
+		"startdate":		"2019-06-10",
+		"description":	"Join us for our live online Q&A session and ask an industry expert anything on mentoring."
+	},
+	{
+		"title":				"PyLadies Dublin - June Meetup",
+		"url":					"meetup.com/PyLadiesDublin/events/dclgvlyzjbxb/",
 		"location":			"Dublin",
-		"startdate":		"2018-08-21",
-		"description":	"Using Python to Automate Trello Workflows / Building continuous delivery deployment tools in python"
+		"startdate":		"2019-06-18",
+		"description":	"We will use this month's session to complete the May workshop and play more with MicroPython"
 	},
 	{
-		"title":				"Girl develop it, Cork",
-		"url":					"meetup.com/meetup-group-KtPOQaae/events/mtlwvpyxlbcc/",
-		"location":			"Cork",
-		"startdate":		"2018-08-21",
-		"description":	"August Meetup, Code & Coffee"
-	},
-	{
-		"title":				"Women In Tech Belfast (Lean In)",
-		"url":					"meetup.com/Women-In-Tech-Belfast-Lean-In/events/246383758/",
-		"location":			"Belfast",
-		"startdate":		"2018-09-18",
-		"description":	"Negotiating Promotions and Payrises"
-	},
-	{
-		"title":				"Girls in Tech, Dublin",
-		"url":					"eventbrite.ie/e/stepping-up-a-mentorship-program-to-empower-women-tickets-46842885331/",
+		"title":				"RLadies June meetup",
+		"url":					"meetup.com/rladies-dublin/events/261637456/",
 		"location":			"Dublin",
-		"startdate":		"2018-09-06",
-		"description":	"Stepping UP - A mentorship program to empower women"
+		"startdate":		"2019-06-24",
+		"description":	"RLadies June meetup"
 	},
 	{
 		"title":				"Women of Wearables, Dublin",
-		"url":					"eventbrite.com/e/women-of-wearables-professional-networking-is-rocking-again-tickets-46881421594?aff=ebdssbdestsearch",
+		"url":					"eventbrite.com/e/balancing-work-health-and-well-being-with-tech-tickets-50823887616",
 		"location":			"Dublin",
-		"startdate":		"2018-09-12",
-		"description":	"Women of Wearables Professional Networking is Rocking Again!"
+		"startdate":		"2019-05-29",
+		"description":	"Balancing Work, Health and Well-being with Tech"
 	},
 	{
-		"title":				"Belfast IT Girls",
-		"url":					"belfastitgirls.com",
+		"title":				"#GoingFar Event: LinkedIn Workshop for Immigrants",
+		"url":					"eventbrite.ie/e/goingfar-free-linkedin-workshop-for-immigrants-tickets-61166720307",
+		"location":			"Leopardstown, Dublin",
+		"startdate":		"2019-05-23",
+		"description":	"#GoingFar is an initiative to support non-male immigrants living in Ireland, who work in tech and/or entrepreneurship. Learn how to maximise the opportunities and benefits of LinkedIn"
+	},
+	{
+		"title":				"Women Tech Space June Event",
+		"url":					"meetup.com/Women-Tech-Space/events/261282299/",
 		"location":			"Belfast",
-		"startdate":		"2018-08-06",
-		"enddate":			"2018-08-10",
-		"description":	"A week-long technology camp for girls aged 15-19 to develop Digital, IT & Creative skills."
+		"startdate":		"2019-06-03",
+		"description":	"This is our monthly meetup where attendees can get support with the Django Girls tutorial, or maybe there's a new language or framework you want to try out"
 	},
 	{
-		"title":				"Diversity in Tech: Data Workshop",
-		"url":					"ti.to/coding-grace/diversity-in-data-workshop-2018",
+		"title":				"Teen-Turn Summer Event",
+		"url":					"teen-turn.com/power-of-influence/",
 		"location":			"Dublin",
-		"startdate":		"2018-09-22",
-		"description":	"Full day workshop including beginners R and Python, intermediate workshops and a competition."
+		"startdate":		"2019-05-30",
+		"description":	"Join us to discuss 'Outsiders on the inside: Women effecting change in Tech and Education'"
 	},
 	{
-		"title":				"Django workshop for beginners",
-		"url":					"eventbrite.ie/e/programming-workshop-for-women-tickets-47144277804",
-		"location":			"Sligo",
-		"startdate":		"2018-09-08",
-		"description":	"A one-day workshop for beginners based on tutorial by Django Girls."
+		"title":				"Girl Develop It Cork - Code & Coffee",
+		"url":					"meetup.com/meetup-group-KtPOQaae/events/kwslwqyzjbxb/",
+		"location":			"Cork",
+		"startdate":		"2019-06-18",
+		"description":	"Do you want to learn how to write code or improve? Join us for Code & Coffee!"
 	},
 	{
-		"title":				"Women in Mathematics Day",
-		"url":					"eventbrite.ie/e/women-in-mathematics-day-ireland-2018-tickets-46531722635",
-		"location":			"Dublin",
-		"startdate":		"2018-08-29",
-		"description":	"Talks and poster presentations will be given by women and men from both academia and industry."
-	},
-	{
-		"title":				"All Women In Tech Summer Social",
-		"url":					"meetup.com/Women-In-Tech-Belfast-Lean-In/events/253379559/",
+		"title":				"Women In Tech Belfast (Lean In), How to be a Good Ally",
+		"url":					"meetup.com/Women-In-Tech-Belfast-Lean-In/events/258675906/",
 		"location":			"Belfast",
-		"startdate":		"2018-08-31",
-		"description":	"A relaxed evening of drinks, nibbles, networking and socialising."
+		"startdate":		"2019-09-17",
+		"description":	"This event will discuss how to be a good ally in the workplace. Bring a man with you!"
 	},
 	{
-		"title":				"Women Sho Code Dublin: September Meetup",
-		"url":					"meetup.com/Women-Who-Code-Dublin/events/251198504/",
-		"location":			"Dublin",
-		"startdate":		"2018-09-06",
-		"description":	"September Meetup at Riot Games"
-	},
-	{
-		"title":				"Ladies that UX Dublin: August Meetup",
-		"url":					"eventbrite.ie/e/accessibility-in-ux-tickets-48716251620",
-		"location":			"Dublin",
-		"startdate":		"2018-08-28",
-		"description":	"Talks about Accessibility in UX"
-	},
-	{
-		"title":				"Women in Blockchain August Meetup",
-		"url":					"meetup.com/Women-in-Blockchain-Dublin/events/253315852/",
-		"location":			"Dublin",
-		"startdate":		"2018-08-08",
-		"description":	"Design Principles for Blockchain"
+		"title":				"Women In Tech Belfast (Lean In), WIT in the Workplace",
+		"url":					"meetup.com/Women-In-Tech-Belfast-Lean-In/events/258674320/",
+		"location":			"Belfast",
+		"startdate":		"2019-10-15",
+		"description":	"Do you want to set up a Women's Network or Diversity & Inclusion team in your company? Or want to share best practice with more experienced companies?"
 	}
 ]
