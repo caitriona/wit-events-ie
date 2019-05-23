@@ -104,5 +104,12 @@
 		"startdate":		"2019-09-12",
 		"enddate":			"2019-09-13",
 		"description":	"Join over 1,000 inspirational women (and men!) in technology for two days of innovative content in a diverse and inclusive environment."
+	},
+	{
+		"title":				"Women Who Code, Dublin - 1 Year Anniversary of GDPR",
+		"url":					"meetup.com/Women-Who-Code-Dublin/events/261671052/",
+		"location":			"Dublin",
+		"startdate":		"2019-06-13",
+		"description":	"Join us to celebrate 1 year anniversary of GDPR in the EU & spread more data literacy."
 	}
 ]
